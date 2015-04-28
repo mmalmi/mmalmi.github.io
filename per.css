@@ -1,0 +1,148 @@
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Lato';
+	color: #ffffff;
+	text-align: center;
+	user-select: none;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	transition: all 0.5s ease;
+}
+
+header {
+	z-index: 1;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	background: rgba(0,0,0,0.5);
+}
+
+h1 {
+	margin: 0;
+	padding: 1em 0;
+	cursor: default;
+}
+
+p {
+	margin: 3em 0;
+}
+
+header ul {
+	list-style: none;
+}
+
+header li {
+	display: inline-block;
+	text-transform: uppercase;
+	margin-right: 40px;
+}
+
+section h1 {
+	font-size: 3em;
+	text-transform: uppercase;
+	letter-spacing: 10;
+}
+
+h1 small {
+	color: #aaa;
+}
+
+#wrapper {
+	position: relative;
+}
+
+#scroller {
+	position: absolute;
+}
+
+section {
+	background-color: black;
+	min-height: 100%;
+	padding: 0 20px;
+	padding-bottom: 20px;
+}
+
+#cover h1 {
+	font-size: 2em;
+	text-transform: uppercase;
+	letter-spacing: 20;
+}
+
+@media (max-width: 767px) {
+	#cover h1 {
+		font-size: 1em;
+	}
+}
+
+#cover {
+	font-size: 3em;
+	letter-spacing: 20;
+	//text-shadow: 0 0 1px black;
+	background: url(illusions/life.jpg) no-repeat center center;
+	background-size: cover;
+	height: 100%;
+}
+
+#cover .content {
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+	padding: 20px;
+}
+
+#cover ul {
+	list-style: none;
+}
+
+#cover li {
+	display: inline-block;
+}
+
+#writing {
+	background-color: #ffffff;
+	color: #333333;
+}
+
+#writing a {
+	color: #333333;
+}
+
+#writing a:hover {
+	color: #999999;
+	text-decoration: underline;
+}
+
+footer {
+	padding: 150px 20px;
+	background: #fff url(illusions/london-skyline.svg) repeat-x center 0;
+	//background-size: cover;
+}
+
+a {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #C262D3;
+}
+
+h1 {
+}
+
+.spoiler {
+	transition: background 3s ease;
+	background: #ffffff;
+	color: #ffffff;
+}
+
+.spoiler:hover {
+	background: none;
+	color: inherit;
+}
