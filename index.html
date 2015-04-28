@@ -64,7 +64,45 @@
 <script type="text/javascript" src="sorcery/instafeed.min.js"></script>
 <script type="text/javascript" src="sorcery/jquery-1.11.2.min.js"></script>
 <script type="text/javascript">
+var contentItems,
+    prevItem;
+
+function calculateOffsets() {
+  contentItems = $('section').map(function (i) {
+      return $(this).offset().top;
+  }).get();
+}
+
+function updateNav() {
+    if(contentItems)
+      handleScrollNavigation();
+}
+
+$(window).load(function() {
+    calculateOffsets();
+    updateNav();
+});
+
+function handleScrollNavigation () {
+    var pageHeight = $(window).height();
+    var scroll = $(window).scrollTop() + 1,
+        activeItem;
+
+    for (var n = 0; n < contentItems.length && scroll > contentItems[n]; n++);
+    activeItem = n - 1;
+
+    if (activeItem != prevItem) {
+        $('header li a').removeClass('active');
+        $('header li a:eq(' + activeItem + ')').addClass('active');
+        prevItem = activeItem;
+    }
+};
+
 $(document).ready(function() {
+  $(window).resize(calculateOffsets);
+  $(window).resize(updateNav);
+  updateNav();
+
 	var $root = $('html, body');
 	$('a').click(function() {
 		var href = $.attr(this, 'href');
@@ -75,6 +113,20 @@ $(document).ready(function() {
 		});
 		return false;
 	});
+
+  $('header li a').click(function(e) {
+    $('header li a').removeClass('active');
+    $(e.target).addClass('active');
+  });
+
+  $(window).scroll(function(){
+    updateNav();
+    if ($(this).scrollTop() > 300) {
+      $('header').addClass('small');
+      } else {
+        $('header').removeClass('small');
+      }
+  });
 });
 </script>
 </head>
@@ -82,7 +134,7 @@ $(document).ready(function() {
 
 <header>
 <ul>
-	<li><a href="#cover"><span class="fa fa-star"></span></a></li>
+	<li><a href="#cover" class="active"><span class="fa fa-star"></span></a></li>
 	<!--<li><a href="#design">Design</a></li>-->
 	<li><a href="#photography">Photography</a></li>
 	<li><a href="#writing">Writing</a></li>
@@ -97,9 +149,8 @@ $(document).ready(function() {
 				<li><a href="https://twitter.com/marttimalmi"><span class="fa fa-twitter"></span></a></li>
 				<li><a href="https://www.facebook.com/mmalmi"><span class="fa fa-facebook"></span></a></li>
 				<li><a href="https://www.linkedin.com/in/marttimalmi"><span class="fa fa-linkedin"></span></a></li>
-				<li><a href="https://instagram.com/mmalmi"><span class="fa fa-instagram"></span></a></li>
+        <li><a href="https://github.com/mmalmi"><span class="fa fa-github"></span></a></li>
 				<li><a href="mailto:sirius@iki.fi"><span class="fa fa-at"></span></a></li>
-				<li><a href="https://github.com/mmalmi"><span class="fa fa-github"></span></a></li>
 			</ul>
 		</div>
 	</div>

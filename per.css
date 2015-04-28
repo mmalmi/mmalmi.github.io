@@ -20,7 +20,14 @@ header {
 	top: 0;
 	left: 0;
 	right: 0;
+	transition: all 1s ease;
 	background: rgba(0,0,0,0.5);
+	padding: 1em 0;
+}
+
+header.small {
+	background: rgba(0,0,0,1);
+	padding: 0;
 }
 
 h1 {
@@ -119,9 +126,8 @@ section {
 }
 
 footer {
-	padding: 150px 20px;
-	background: #fff url(illusions/london-skyline.svg) repeat-x center 0;
-	//background-size: cover;
+	padding: 105px 20px;
+	background: #fff url(illusions/london-skyline.svg) repeat-x center -130px;
 }
 
 a {
@@ -129,7 +135,12 @@ a {
 	text-decoration: none;
 }
 
-a:hover {
+a:hover, a.active {
+	color: #C262D3;
+}
+
+header a:focus {
+	outline: none;
 	color: #C262D3;
 }
 
