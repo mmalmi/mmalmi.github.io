@@ -2,7 +2,7 @@
 layout: post
 title:  "How To Fix Everything That’s Wrong With the Internet"
 date:   2019-11-04 13:37:00 +0000
-categories: jekyll update
+categories: decentralization economics iris
 ---
 What do Google, Facebook, Youtube, Amazon, Uber and a phone book have in common? They are indexes — searchable lists of stuff. Google is a list of keywords mapped to the websites they appear in. Facebook is a list of profiles, posts, private messages, events and other types of information. Youtube has users, videos and comments. Amazon: merchants and items. Uber: drivers, customers and ride requests.
 
