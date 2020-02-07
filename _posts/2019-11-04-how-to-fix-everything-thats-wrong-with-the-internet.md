@@ -9,6 +9,7 @@ tags: decentralization economics iris
 What do Google, Facebook, Youtube, Amazon, Uber and a phone book have in common? They are **indexes** — searchable lists of stuff. Google is a list of keywords mapped to the websites they appear in. Facebook is a list of profiles, posts, private messages, events and other types of information. Youtube has users, videos and comments. Amazon: merchants and items. Uber: drivers, customers and ride requests.
 
 Oh, and the phone book. Young readers might not know that it was a 20th century business model where you print out a database of names matched with phone numbers and drop the heavy object into people’s mailboxes.
+
 Most online unicorns are essentially just indexes with a nice user interface and occasionally some sort of customer support. They are commonly called “platforms”.
 
 Strong network effects are the boon or bane of indexing, depending on whom you ask. Winner takes it all: users must join the most popular index in order to find others and be found, i.e. to get the most search results and appear in as many searches as possible.
