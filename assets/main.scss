@@ -1,0 +1,73 @@
+---
+---
+
+@font-face {
+  font-family: 'Lato';
+  font-weight: 300;
+  font-style: normal;
+  src: local('Lato Light'),
+       local('Lato-300'),
+       url('../assets/fonts/Lato-300/Lato-300.woff2') format('woff2'),
+       url('../assets/fonts/Lato-300/Lato-300.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Lato Regular'),
+       local('Lato-regular'),
+       url('../assets/fonts/Lato-regular/Lato-regular.woff2') format('woff2'),
+       url('../assets/fonts/Lato-regular/Lato-regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-weight: 700;
+  font-style: normal;
+  src: local('Lato Bold'),
+       local('Lato-700'),
+       url('../assets/fonts/Lato-700/Lato-700.woff2') format('woff2'),
+       url('../assets/fonts/Lato-700/Lato-700.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Lato';
+  font-weight: 900;
+  font-style: normal;
+  src: local('Lato Black'),
+       local('Lato-900'),
+       url('../assets/fonts/Lato-900/Lato-900.woff2') format('woff2'),
+       url('../assets/fonts/Lato-900/Lato-900.woff') format('woff');
+}
+
+@import "minima";
+
+body {
+  font-family: 'Lato';
+}
+
+.site-title {
+  text-transform: uppercase;
+  letter-spacing: 10px;
+  font-weight: 700;
+  transition: opacity 0.25s ease;
+  @include relative-font-size(0.8);
+
+  &:hover {
+    text-decoration: none;
+    opacity: 0.8;
+  }
+}
+
+@media (min-width: 360px) {
+  .site-title {
+    @include relative-font-size(1.2);
+  }
+}
+
+@media (min-width: 600px) {
+  .site-title {
+    @include relative-font-size(1.5);
+  }
+}

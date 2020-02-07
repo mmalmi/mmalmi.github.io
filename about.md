@@ -11,3 +11,5 @@ My other interests include economics, law, psychology (especially moral and evol
 The blog name stems from my Bitcoin developer nickname Sirius. As Nathaniel Popper tells the story in his book Digital Gold:
 
 > The name had a cosmic ring to it, and conveyed that this was "sirius business," Martti thought to himself. But it also had a more playful meaning for Martti, who had used the alias in a Harry Potter role-playing game at age thirteen.
+
+Harry Potter LARP — hard to imagine anything cooler.
