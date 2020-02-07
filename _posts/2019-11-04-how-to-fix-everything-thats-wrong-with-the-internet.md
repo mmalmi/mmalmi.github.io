@@ -70,25 +70,27 @@ You can have end-to-end encrypted private chats and get mobile or desktop notifi
 
 ![Iris Social screenshot](/assets/images/posts/iris-social-screenshot-2019.png)
 
-*Iris browser application. Also available for desktop, mobile and as a library.*
+*Iris [browser application](https://github.com/irislib/iris-angular). Also available for [desktop](https://github.com/irislib/iris-electron), [mobile](https://github.com/irislib/iris-mobile) and as a [library](https://github.com/irislib/iris-lib).*
 
-Iris web of trust works both on the software level and the user level. On the software level it is used to manage peer connections and prioritize storage space: friends connect to each other and replicate each other’s content. On the user level it aims to serve as a socially scalable version of the system of trust that naturally exists in tribes and villages, reducing the need for a centralized justice system and facilitating the gift economy.
+Iris web of trust works both on the software level and the user level. On the software level it is used to manage peer connections and prioritize storage space: friends connect to each other and replicate each other’s content. On the user level it aims to serve as a [socially scalable version of the system of trust](https://medium.com/@mmalmi/learning-to-trust-strangers-167b652a654f) that naturally exists in tribes and villages, reducing the need for a [centralized](https://medium.com/@mmalmi/law-is-better-without-monopoly-778963880276) justice system and facilitating the [gift economy](https://en.wikipedia.org/wiki/Gift_economy).
 
-Web of trust helps filter out spam and other unwanted content without entrusting the power to a central moderator. Instead of a single moderator, you have multiple “moderators” whom you can choose and whose collective decisions you can override. It makes trolling, fake news and other propaganda campaigns more difficult, since your messages are only shown to people whose WoT you are in.
+Web of trust helps filter out spam and other unwanted content without entrusting the power to a central moderator. Instead of a single moderator, you have multiple “moderators” whom you can choose and whose collective decisions you can override. **It makes trolling, fake news and other propaganda campaigns more difficult**, since your messages are only shown to people whose WoT you are in.
 
-Based on attestations (“identity verifications”) from your WoT, Iris maps natural names to public keys and other identifiers, providing a decentralized alternative to digital identity providers such as domain names, email addresses, phone numbers, social media handles or CA certificates. Similarly to Petnames or Namecoin, it fulfills all three properties of Zooko’s triangle outlined in Names: Decentralized, Secure, Human-Meaningful: Choose Two.
+Based on attestations (“identity verifications”) from your WoT, **Iris maps natural names to public keys and other identifiers, providing a decentralized alternative to digital identity providers** such as domain names, email addresses, phone numbers, social media handles or CA certificates. Similarly to [Petnames](https://web.archive.org/web/20120204092248/http://www.skyhunter.com/marcs/petnames/IntroPetNames.html) or Namecoin, it fulfills all three properties of Zooko’s triangle outlined in [Names: Decentralized, Secure, Human-Meaningful: Choose Two](https://web.archive.org/web/20120204172516/http://zooko.com/distnames.html).
 
-Unlike Namecoin addresses or other global names, Iris names are not globally unique: there can be multiple people named John Smith. When searching for a name, you get a dropdown list of results ordered by their WoT distance, along with avatars and other human-meaningful attributes that are attested by your WoT. Iris doesn’t have a globally shared state. Instead, what you see depends on what your WoT says.
+Unlike Namecoin addresses or other global names, Iris names are not globally unique: there can be multiple people named John Smith. When searching for a name, you get a dropdown list of results ordered by their WoT distance, along with avatars and other human-meaningful attributes that are attested by your WoT. **Iris doesn’t have a globally shared state. Instead, what you see depends on what your WoT says**.
 
-It could be even used to maintain a shared conception of borders, countries and properties. Instead of Google playing the geopolitical moderator, the borders and names you see on a map would depend on what your WoT has attested to. Good for local sovereignty advocates. Use together with uncensorable public polls.
+It could be even used to maintain a shared conception of borders, countries and properties. Instead of Google [playing the geopolitical moderator](https://www.newsweek.com/googles-place-geopolitics-493769), the borders and names you see on a map would depend on what your WoT has attested to. Good for local sovereignty advocates. Use together with [uncensorable](https://www.nytimes.com/2017/09/20/world/europe/catalonia-referendum-spain.html) public polls.
 
-Ideally, Iris users would have device-based private keys that share access to the same private data. Losing one key doesn’t matter, and the other keys can be used to invalidate the lost one. If you lose all your keys, you can just ask your WoT to attest a new key to your identity. After enough verifications, other users can fetch the private chats with your old key and re-encrypt them to the new key. Your non-shared private data would be lost though. That could be avoided with yet another key recovery option: Shamir’s Secret Sharing, which allows e.g. 3 out of 5 recovery shards stored by friends to restore your private key.
+Ideally, Iris users would have device-based private keys that share access to the same private data. Losing one key doesn’t matter, and the other keys can be used to invalidate the lost one. If you lose all your keys, you can just ask your WoT to attest a new key to your identity. After enough verifications, other users can fetch the private chats with your old key and re-encrypt them to the new key. Your non-shared private data would be lost though. That could be avoided with yet another key recovery option: [Shamir’s Secret Sharing](https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing), which allows e.g. 3 out of 5 recovery shards stored by friends to restore your private key.
 
-End-to-end encrypted private chat in the Iris mobile app. The strategy is to start with private messaging, since it doesn’t require the same critical mass as public messaging.
+![Iris mobile app](/assets/images/posts/iris-react-native-2019.png)
+
+*End-to-end encrypted private chat in the [Iris mobile app](https://github.com/irislib/iris). The strategy is to start with private messaging, since it doesn’t require the same critical mass as public messaging.*
 
 Iris outsources storage and networking to Gun, the aforementioned CRDT system. With storage adapters it provides offline-first eventually consistent data synchronization between all kinds of storages, such as RAM, file system, local area network peers (multicast), websocket servers or remote WebRTC peers. With a bluetooth adapter you could use it in an ad hoc mesh network where peers don’t even need to be connected all the time — very censorship-resistant.
 
-Iris users maintain their own indexes of Message and Contact objects. These are synchronized and queried over Gun. When you search for messages or contacts, other indexes in your web of trust are also queried. That is web of trust based decentralized indexing.
+Iris users maintain their own **indexes** of Message and Contact objects. These are synchronized and queried over Gun. When you search for messages or contacts, other indexes in your web of trust are also queried. That is **web of trust based decentralized indexing**.
 
 This works using Gun’s simple API:
 ```
@@ -97,24 +99,27 @@ user = gun.user()
 user.auth(keypair)
 user.get(‘messages’).get(indexKey).put(message)
 user.get(‘messages’, params).map(msg => doSomething(msg))
-user.get(‘contacts’)…
+user.get(‘contacts’)...
+
 # open someone else’s index (read-only)
 user = gun.user(publicKey)
-user.get(‘messages’, params).map(…)
+user.get(‘messages’, params).map(...)
 ```
 
-The same paradigm could be used to store and retrieve other kinds of objects and build all kinds of decentralized alternatives to platforms like Google, Amazon, Uber etc.
+**The same paradigm could be used to store and retrieve other kinds of objects and build all kinds of decentralized alternatives to platforms** like Google, Amazon, Uber etc.
 
 Sharding, replication factor, algorithms for efficient querying of peers and other optimizations are yet to be explored. Perhaps a distributed hash table between trusted peers could be used. The optimal division of labor between local devices and servers (super-peers) needs further research: you want it to work offline or in a mesh network (to some extent), but also to be able to utilize the power of data centers.
 
 Servers and efficient data centers have their place even in a system where the data model, storage and networking support decentralization. You could still have companies that maintain large indexes: they would just be interoperable with other actors in the network. The question is how to find the right balance between them.
 
-In order to truly compete with centralized platforms, decentralized applications must provide user experience as good as or even better than what we are used to. Iris and the other presented solutions are not quite there yet. Bittorrent does a great job with download speeds, but has no integrated content indexing and search like we’re used to on Netflix, Steam or Spotify. The others typically have performance or scalability issues. On the other hand, we can already boast offline-first capabilities and ease of signup unlike Facebook and the others. Not to mention the sheer ecstatic feeling of self-sovereignty.
+In order to truly compete with centralized platforms, **decentralized applications must provide user experience as good as or even better than what we are used to**. Iris and the other presented solutions are not quite there yet. Bittorrent does a great job with download speeds, but has no integrated content indexing and search like we’re used to on Netflix, Steam or Spotify. The others typically have performance or scalability issues. On the other hand, we can already boast offline-first capabilities and ease of signup unlike Facebook and the others. Not to mention the sheer ecstatic feeling of self-sovereignty.
 
-Iris logo: rainbow colored eye in a speech bubble.
+![Iris logo](/assets/images/posts/iris-logo.png)
+
+*Iris logo: rainbow colored eye in a speech bubble.*
 
 If you’re enthusiastic about something that nobody else seems to get, odds are that you are chasing a rainbow (and Iris happens to be the Greek goddess of the rainbow). But sometimes you are right. In 2009 I emailed Satoshi Nakamoto and offered to help however I could with Bitcoin. After that it would take years before Bitcoin’s success eventually convinced people to start taking it seriously.
 
 I have been similarly enthusiastic about the ideas behind Iris for years, but lacked the marketing skills to promote them. I believe that code speaks louder than words though: bitcoin wouldn’t have gotten off the ground with only the whitepaper and no reference implementation to prove it. Iris software is getting there, but progress is slow when you’re working on a complex system by yourself, using experimental building blocks that have changed many times along the way.
 
-If you liked the analysis or the proposed solution, please share this article or check out Iris on GitHub for more contribution options. If you have a better idea on how to decentralize indexing or otherwise make us less dependent on corporate online platforms, please let us know. The world needs it!
+If you liked the analysis or the proposed solution, please share this article or check out [Iris on GitHub](https://github.com/irislib/iris/blob/master/README.md) for more contribution options. If you have a better idea on how to decentralize indexing or otherwise make us less dependent on corporate online platforms, please let us know. The world needs it!

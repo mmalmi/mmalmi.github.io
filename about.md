@@ -6,7 +6,7 @@ permalink: /about/
 
 ![Mie](/assets/images/mie.jpg)
 
-I write mostly code and occasionally blog posts. I'm interested in individual liberty (or at least local sovereignty) and how to achieve it using decentralized technology. I worked with Bitcoin in 2009-2011. As of 2020 I'm working on decentralized social media.
+I write mostly code and occasionally blog posts. I'm interested in **individual liberty** (or at least local sovereignty) and how to achieve it using **decentralized technology**. I worked with **Bitcoin** in 2009-2011. As of 2020 I'm working on decentralized social media.
 
 My other interests include economics, law, psychology (especially moral and evolutionary), music, photography, aesthetics, phenomenology, software development, digitalization and hunter-gatherer lifestyle.
 
