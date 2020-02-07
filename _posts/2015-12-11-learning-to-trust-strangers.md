@@ -4,6 +4,8 @@ title:  "Learning to Trust Strangers"
 date:   2015-12-11 13:37:00 +0000
 tags: society voluntaryism
 ---
+![Trust me](/assets/images/posts/trust-me.jpeg)
+
 [Dunbar’s number](https://en.wikipedia.org/wiki/Dunbar%27s_number) supposes the maximum size of a social network that we can hold and maintain in our heads. The usual estimate is 150. In tribes or villages 150 is about the number of people you need to know to enter a system of trust. In today’s secular urban environment, where most of the people you come across are strangers, establishing trust is more difficult and there is less incentive to be the good guy. Fortunately, we can overcome the limitations of the human mind by information technology.
 
 Uber and Airbnb have shown how reputation and feedback systems can help people to trust strangers. People tend to treat strangers with greater respect when they get a star rating that includes a complementary comment.
