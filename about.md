@@ -14,4 +14,4 @@ The blog name stems from my Bitcoin developer nickname Sirius. As Nathaniel Popp
 
 > The name had a cosmic ring to it, and conveyed that this was "sirius business," Martti thought to himself. But it also had a more playful meaning for Martti, who had used the alias in a Harry Potter role-playing game at age thirteen.
 
-Harry Potter LARP — hard to imagine anything cooler.
+And what would be cooler than a Harry Potter LARP?
