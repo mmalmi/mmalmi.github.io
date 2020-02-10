@@ -96,7 +96,7 @@ Feel free to inspect the element and override the stylesheet to match your site'
 
 ```
 
-[Codepen](https://codepen.io/mmalmi/pen/bGddeqE), [Github](https://irislib.github.io/iris-lib/example/chatbox/)
+Check it out on [Codepen](https://codepen.io/mmalmi/pen/bGddeqE) or [Github](https://irislib.github.io/iris-lib/example/chatbox/)
 
 # Technical notes
 
