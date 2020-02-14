@@ -4,6 +4,8 @@ title:  "Javascript live chat tutorial: Free alternative to Firebase"
 date:   2020-02-10 13:37:00 +0000
 tags: tutorial decentralization chat iris
 ---
+![Chat example](../assets/images/posts/chat.png)
+
 Need a chat box for your website? Want something more independent and affordable than Firebase? In this super simple tutorial, I'll show you how to build a chat using [iris](https://github.com/irislib/iris-lib).
 
 The chat is offline-first and end-to-end encrypted. It is stored and propagated using the distributed database [gun](https://github.com/amark/gun).
@@ -18,9 +20,11 @@ No signup of any kind required: just generate a key pair for the chat recipient.
 
 ```
 <script src="https://cdn.jsdelivr.net/npm/gun/gun.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/gun/sea.js"></script>
+<script src="https://irislib.github.io/iris-messenger/src/js/sea.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/iris-lib/dist/iris.min.js"></script>
 ```
+
+Note: at the time of writing this, sea.js sha-256 is broken on Safari, so you'll need the patched version from the script tag above.
 
 # 2. Initialize gun
 
@@ -54,18 +58,12 @@ var key = await iris.Key.getDefault()
 var chatLink = [chat link here]
 ```
 
-# 5. Create chat
-```
-var chat = new iris.Chat({gun, key, chatLink})
-```
+# 5. Add chat button to document
 
-# 6. Add chat box to document
-
-Iris library comes with an embeddable chat box.
+Iris library comes with an embeddable chat button & UI.
 
 ```
-var box = chat.getChatBox()
-document.body.appendChild(box)
+iris.Chat.addChatButton({label: 'Live Chat', chatOptions: {gun, key, chatLink}});
 ```
 
 It's as simple as that! Chats opened by users will now show up for the key / account you created at iris.to.
@@ -78,24 +76,22 @@ Feel free to inspect the element and override the stylesheet to match your site'
 <html>
   <head>
     <title>Live Chat Example</title>
+    <meta name="viewport" content="width=device-width, user-scalable=no">
     <script src="https://cdn.jsdelivr.net/npm/gun/gun.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/gun/sea.js"></script>
+    <script src="https://irislib.github.io/iris-messenger/src/js/sea.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/iris-lib/dist/iris.min.js"></script>
   </head>
-  <body>
+  <body style="background: #c5c7f7">
     <script type="text/javascript">
       iris.Key.getDefault().then(key => {
         var gun = new Gun({peers: ['https://gun-eu.herokuapp.com/gun']});
         // replace chatLink with your own chat link from iris.to
         var chatLink = 'https://iris.to/?chatWith=4JhaYuPVcq4y2Sp6sRAGkbwM5FdhsMih3b4E6tvd5W4.ULpD5dhra5ojHtKFEdcTZ80UZEmZnRl4dfM2JCEzj2M&s=ZaUbkxPsQeSSdSP1ety7y19eTjPq1gHu15s1v8cbGX4&k=26vMMto5xufO';
-        var chat = new iris.Chat({gun, key, chatLink});
-        var box = chat.getChatBox();
-        document.body.appendChild(box);
+        iris.Chat.addChatButton({label: 'Live Chat', chatOptions: {gun, key, chatLink}});
       });
     </script>
   </body>
 </html>
-
 ```
 
 Check it out on [Codepen](https://codepen.io/mmalmi/pen/bGddeqE) or [Github](https://irislib.github.io/iris-lib/example/chatbox/)
