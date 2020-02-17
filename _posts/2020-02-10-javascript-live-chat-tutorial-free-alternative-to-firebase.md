@@ -102,4 +102,4 @@ If you want to improve or customize the functionality, addChatButton() source co
 
 Chats are persisted in users' browsers. Heroku nodes are ephemeral: their filesystem is reset once in a while. If you want to persist the chats on a server, you can add S3 storage to your heroku gun instance, or run a docker gun node.
 
-Disclaimer: Messages are e2e encrypted, but message timestamps currently aren't. In a decentralized network the timestamp and message author are visible to anyone. The library has not been security audited, so don't use it for privacy critical purposes.
+Disclaimer: Messages are e2e encrypted, but message timestamps currently aren't. In a decentralized network the timestamp and message author are visible to anyone. The library has not been security audited, so don't use it for security critical purposes.
