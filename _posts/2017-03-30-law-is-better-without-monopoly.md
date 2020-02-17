@@ -26,7 +26,7 @@ If you were unhappy with your “government”, you could change it at will, jus
 
 Law and protection providers would have the natural incentive to focus on proactive crime prevention rather than just dealing with the damage. They would likely want to help you with security planning and offer discounts for doing it. Customer experience would be massively better than what we have now — providers would actually have to care about keeping their customers.
 
-**How do we get there?** Through technological advancements that make old-style governments obsolete. We will have decentralized and voluntary alternatives that outcompete stagnant government services. When we have better alternatives for education, healthcare, social security, money, [reputation systems](https://medium.com/@mmalmi/learning-to-trust-strangers-167b652a654f), dispute resolution, personal registry, ownership registry and personal safety, governments lose their justification and legitimacy.
+**How do we get there?** Through technological advancements that make old-style governments obsolete. We will have decentralized and voluntary alternatives that outcompete stagnant government services. When we have better alternatives for education, healthcare, social security, money, [reputation systems](https://siriusbusiness.fi/learning-to-trust-strangers), dispute resolution, personal registry, ownership registry and personal safety, governments lose their justification and legitimacy.
 
 When the framework of governments and banks is not needed to run companies, organize work and property or move money, taxation without consent becomes increasingly difficult and government monopolies become even less justified.
 

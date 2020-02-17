@@ -96,6 +96,8 @@ Feel free to inspect the element and override the stylesheet to match your site'
 
 Check it out on [Codepen](https://codepen.io/mmalmi/pen/bGddeqE) or [Github](https://irislib.github.io/iris-lib/example/chatbox/)
 
+If you want to improve or customize the functionality, addChatButton() source code can be found [here](https://github.com/irislib/iris-lib/blob/master/src/chat.js).
+
 # Notes
 
 Chats are persisted in users' browsers. Heroku nodes are ephemeral: their filesystem is reset once in a while. If you want to persist the chats on a server, you can add S3 storage to your heroku gun instance, or run a docker gun node.
