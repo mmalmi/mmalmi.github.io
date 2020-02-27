@@ -28,7 +28,7 @@ Law and protection providers would have the natural incentive to focus on proact
 
 **What if there's a dispute between providers?** Well, governments these days disagree all the time and international justice is a mess. Still, they don't go to war over small things — even if they could do so with taxpayers' money.
 
-In case of voluntaristic providers that people are free to leave without moving to another country, there is even less incentive to go to war or leave "international" disputes unresolved. Members will go elsewhere if the price gets too high or the service too bad. Providers must co-operate and follow the common law, or else they will face external pressure and increased costs.
+In case of non-monopolistic providers that people are free to leave without moving to another country, there is even less incentive to go to war or leave "international" disputes unresolved. Members will go elsewhere if the price gets too high or the service too bad. Providers must co-operate and follow the common law, or else they will face external pressure and increased costs.
 
 **How do we get there?** Through technological advancements that make old-style governments obsolete. We will have decentralized and voluntary alternatives that outcompete stagnant government services. When we have better alternatives for education, healthcare, social security, money, [reputation systems](https://siriusbusiness.fi/learning-to-trust-strangers), dispute resolution, personal registry, ownership registry and personal safety, governments lose their justification and legitimacy.
 
