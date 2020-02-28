@@ -72,3 +72,8 @@ body {
     @include relative-font-size(1.5);
   }
 }
+
+video {
+  width: 100%;
+  max-width: 100%;
+}

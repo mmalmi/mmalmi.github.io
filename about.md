@@ -16,9 +16,9 @@ The blog name stems from my Bitcoin developer nickname Sirius. As Nathaniel Popp
 
 And what would be cooler than a Harry Potter LARP?
 
-<video width="640" style="max-width:100%" controls>
+<video width="640" controls>
   <source src="/assets/video/b-sirius.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
-Theme song: _B Sirius Baby_. Used with permission.
+_Theme song: B Sirius Baby_
