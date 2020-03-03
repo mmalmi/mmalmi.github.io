@@ -3,7 +3,7 @@ layout: post
 title:  "Stop eating sugar"
 date:   2020-03-03 10:37:00 +0000
 tags: paleo diet
-image: /assets/images/posts/cheesecake.jpg
+image: https://siriusbusiness.fi/assets/images/posts/cheesecake.jpg
 ---
 
 ![Cheesecake](/assets/images/posts/cheesecake.jpg)
