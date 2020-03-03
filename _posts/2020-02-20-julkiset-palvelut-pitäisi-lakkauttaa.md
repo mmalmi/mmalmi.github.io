@@ -4,6 +4,7 @@ title:  "Julkiset palvelut pitäisi lakkauttaa"
 date:   2020-02-02 13:37:00 +0000
 tags: society voluntaryism economics
 published: false
+description: "Tai ainakin pitäisi mahdollistaa saman verorahan kiikuttaminen **käyttäjän itse valitsemalle** yksityiselle."
 ---
 
 Tai ainakin pitäisi mahdollistaa saman verorahan kiikuttaminen **käyttäjän itse valitsemalle** yksityiselle. Se tosin käytännössä johtaisi julkisten lakkauttamiseen, sillä kukaan ei valitsisi julkista vaihtoehtoa vapaaehtoisesti. Puhun nyt erityisesti koulutuksesta ja terveydenhuollosta, mutta sama koskee muutakin.

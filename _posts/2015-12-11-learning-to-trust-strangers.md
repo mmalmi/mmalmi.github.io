@@ -4,6 +4,7 @@ title:  "Learning to Trust Strangers"
 date:   2015-12-11 13:37:00 +0000
 tags: society voluntaryism
 image: https://siriusbusiness.fi/assets/images/posts/trust-me.jpeg
+description: "In today’s secular urban environment, where most of the people you come across are strangers, establishing trust is more difficult and there is less incentive to be the good guy. Fortunately, we can overcome the limitations of the human mind by information technology."
 ---
 ![Trust me](/assets/images/posts/trust-me.jpeg)
 

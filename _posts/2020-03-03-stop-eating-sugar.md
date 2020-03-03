@@ -4,6 +4,7 @@ title:  "Stop eating sugar"
 date:   2020-03-03 10:37:00 +0000
 tags: paleo diet
 image: https://siriusbusiness.fi/assets/images/posts/cheesecake.jpg
+description: "If you're struggling to lose weight, just remove sugar from your diet. I promise you: you'll be thinner."
 ---
 
 ![Cheesecake](/assets/images/posts/cheesecake.jpg)

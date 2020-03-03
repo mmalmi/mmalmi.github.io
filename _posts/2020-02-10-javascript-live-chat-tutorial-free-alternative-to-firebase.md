@@ -4,10 +4,11 @@ title:  "Javascript live chat tutorial: Free alternative to Firebase"
 date:   2020-02-10 13:37:00 +0000
 tags: tutorial decentralization chat iris
 image: https://siriusbusiness.fi/assets/images/posts/chat.png
+description: "Need a chat box for your website? Want something more independent and affordable than Firebase? In this super simple tutorial, I'll show you how to build a chat using Iris."
 ---
 ![Chat example](../assets/images/posts/chat.png)
 
-Need a chat box for your website? Want something more independent and affordable than Firebase? In this super simple tutorial, I'll show you how to build a chat using [iris](https://github.com/irislib/iris-lib).
+Need a chat box for your website? Want something more independent and affordable than Firebase? In this super simple tutorial, I'll show you how to build a chat using [Iris](https://github.com/irislib/iris-lib).
 
 The chat is offline-first and end-to-end encrypted. It is stored and propagated using the distributed database [gun](https://github.com/amark/gun).
 

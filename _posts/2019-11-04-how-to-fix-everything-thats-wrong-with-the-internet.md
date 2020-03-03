@@ -4,6 +4,7 @@ title:  "How To Fix Everything That’s Wrong With the Internet"
 date:   2019-11-04 13:37:00 +0000
 tags: decentralization economics iris
 image: https://siriusbusiness.fi/assets/images/posts/internet-broken.jpeg
+description: "What do Google, Facebook, Youtube, Amazon, Uber and a phone book have in common?"
 ---
 ![Cover](/assets/images/posts/internet-broken.jpeg)
 
