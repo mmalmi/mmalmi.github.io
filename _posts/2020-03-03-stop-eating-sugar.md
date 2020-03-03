@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Stop eating sugar"
-date:   2020-03-03 12:37:00 +0000
+date:   2020-03-03 10:37:00 +0000
 tags: paleo diet
-published: true
 image: /assets/images/posts/cheesecake.jpg
 ---
 
@@ -35,6 +34,6 @@ I've never been fat, but I used to be nearly 10 kg heavier when I did energy dri
 
 If you want to be healthier, don't eat stuff that your hunter-gatherer ancestors didn't have. It's not always easy, but it's worth it.
 
-Listen to what your body says **after** you eat something. That cheesecake probably feels like a good idea _before_ rather than _after_ eating it. Whereas, a good steak in your stomach feels like divine satisfaction.
+Listen to what your body says **after** you eat something. That cheesecake probably feels like a good idea _before_ rather than _after_ eating it. Whereas, a good steak in your stomach feels like pure satisfaction.
 
 Don't look at "official diet recommendations", look at results.

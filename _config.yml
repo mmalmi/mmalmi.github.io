@@ -30,6 +30,11 @@ plugins:
   - jekyll-feed
 permalink: /:title
 
+# seo
+twitter:
+  username: marttimalmi
+  card: summary
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
