@@ -33,7 +33,7 @@ _Good stuff._
 
 I've never been fat, but I used to be nearly 10 kg heavier when I did energy drinks, sugary snacks and desserts. I stopped eating sugar (and grains) altogether 6 years ago because of skin problems, and as a byproduct I'm lean af. Sugar gave me acne and grains (especially wheat) gave me skin rashes.
 
-If you want to be healthier, don't eat stuff that your hunter-gatherer ancestors didn't. It's not always easy, but it's worth it.
+If you want to be healthier, don't eat stuff that your hunter-gatherer ancestors didn't have. It's not always easy, but it's worth it.
 
 Listen to what your body says **after** you eat something. That cheesecake probably feels like a good idea _before_ rather than _after_ eating it. Whereas, a good steak in your stomach nearly radiates satisfaction.
 
