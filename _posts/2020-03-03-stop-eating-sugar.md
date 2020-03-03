@@ -25,13 +25,13 @@ You should also skip high-sugar fruits that our ancestors did not have: plants t
 
 When you eat sugar, it gives you an initial energy boost, but insulin soon catches up and metabolizes it into fat. Soon you'll be hungry again. Get your calories from good-quality fats and (optionally) slow carbs instead. Never eat "light" products.
 
-I have two heavy meals a day and sometimes nuts (but no peanuts) for breakfast. I don't get hangry like I used to and skipping or postponing a meal is not as much of a problem. I hear some hardcore folks even do one meal a day.
+I have two heavy meals a day and sometimes nuts (but no peanuts) for breakfast. That's about it. I don't get hangry like I used to and skipping or postponing a meal is not as much of a problem. I hear some hardcore folks even do one meal a day.
 
 <img src="/assets/images/posts/nuts.jpg" alt="Nuts" width="300"/>
 
 _Good stuff._
 
-I've never been fat, but I used to be nearly 10 kg heavier when I did energy drinks, sugary snacks and desserts. I stopped eating sugar (and grains) altogether 6 years ago because of skin problems, and as a byproduct I'm lean af. Sugar gave me acne and grains (especially wheat) gave me skin rashes.
+I've never been fat, but I used to be nearly 10 kg heavier when I did energy drinks, sugary snacks and desserts. I stopped eating sugar (and grains and dairy) altogether 6 years ago because of skin problems, and as a byproduct I'm lean af. Sugar gave me acne and grains (especially wheat) and dairy gave me skin rashes.
 
 If you want to be healthier, don't eat stuff that your hunter-gatherer ancestors didn't have. It's not always easy, but it's worth it.
 
