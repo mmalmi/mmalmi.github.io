@@ -3,7 +3,7 @@ layout: post
 title:  "Law Is Better Without Monopoly"
 date:   2017-03-30 13:37:00 +0000
 tags: law economics voluntaryism society
-image: https://siriusbusiness.fi/assets/images/posts/monopoly-man.
+image: https://siriusbusiness.fi/assets/images/posts/monopoly-man.png
 description: "Would it not be great to have a government monopoly over the production of food, clothes or housing — basic human needs? No, just no."
 ---
 
