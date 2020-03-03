@@ -23,7 +23,7 @@ You should also skip high-sugar fruits that our ancestors did not have: plants t
 
 **"Calorie is a calorie" is thermodynamically correct, but idiotic when it comes to diet.** It's like saying "it doesn't matter if you drink booze or beer as long as you get the same amount of alcohol". Alcohol intake is much easier to regulate with mild beverages. The same applies to energy intake with low-glycemic-index products.
 
-When you eat sugar, it gives you an initial energy boost, but insulin soon catches up and metabolizes it into fat. Soon you'll be hungry again. Get your calories from good-quality fats and (optionally) slow carbs instead. Never eat "light" products.
+When you eat sugar, it gives you an initial energy boost, but insulin soon catches up and blood sugar drops. Soon you'll be hungry again. Get your calories from good-quality fats and (optionally) slow carbs instead. Never eat "light" products.
 
 I have two heavy meals a day and sometimes nuts (but no peanuts) for breakfast. That's about it. I don't get hangry like I used to and skipping or postponing a meal is not as much of a problem. I hear some hardcore folks even do one meal a day.
 
@@ -33,8 +33,12 @@ _Good stuff._
 
 I've never been fat, but I used to be nearly 10 kg heavier when I did energy drinks, sugary snacks and desserts. I stopped eating sugar (and grains and dairy) altogether 6 years ago because of skin problems, and as a byproduct I'm lean af. Sugar gave me acne and grains (especially wheat) and dairy gave me skin rashes.
 
+I never have to count calories or limit how much I eat. I'm not even doing full paleo or low-carb: I eat rice and sometimes potatoes or sweet potatoes. I just don't eat sugar, grains or dairy.
+
 If you want to be healthier, don't eat stuff that your hunter-gatherer ancestors didn't have. It's not always easy, but it's worth it.
 
 Listen to what your body says **after** you eat something. That cheesecake probably feels like a good idea _before_ rather than _after_ eating it. Whereas, a good steak in your stomach gives a feeling of satisfaction that lasts.
 
 Don't look at "official diet recommendations", look at results.
+
+P.S. I'm speaking from personal experience and observations here. I understand there may be personal differences in metabolism. Still, I'd like to challenge anyone with a weight problem to leave sugar and other bad carbs out of their diet, and *not* lose weight.
