@@ -19,7 +19,7 @@ Leave out all added sugar. It's in everything, so you'll need to be careful. If 
 
 No juice or fruit smoothies. Personally, I drink just water, coffee and tea (and beer on rare occasions these days).
 
-Also leave out high-sugar fruits that our ancestors did not have: plants that have been artificially bred to contain a lot more sugar than they naturally had. That includes bananas, dates, raisins etc.
+You should also skip high-sugar fruits that our ancestors did not have: plants that have been artificially bred to contain a lot more sugar than they naturally had. That includes bananas, dates, raisins etc.
 
 **"Calorie is a calorie" is thermodynamically correct, but idiotic when it comes to diet.** It's like saying "it doesn't matter if you drink booze or beer as long as you get the same amount of alcohol". Alcohol intake is much easier to regulate with mild beverages. The same applies to energy intake with low-glycemic-index products.
 
