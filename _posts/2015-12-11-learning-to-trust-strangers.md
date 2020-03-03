@@ -3,6 +3,7 @@ layout: post
 title:  "Learning to Trust Strangers"
 date:   2015-12-11 13:37:00 +0000
 tags: society voluntaryism
+image: /assets/images/posts/trust-me.jpeg
 ---
 ![Trust me](/assets/images/posts/trust-me.jpeg)
 

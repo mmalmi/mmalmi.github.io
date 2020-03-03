@@ -3,6 +3,7 @@ layout: post
 title:  "How To Fix Everything That’s Wrong With the Internet"
 date:   2019-11-04 13:37:00 +0000
 tags: decentralization economics iris
+image: /assets/images/posts/internet-broken.jpeg
 ---
 ![Cover](/assets/images/posts/internet-broken.jpeg)
 
