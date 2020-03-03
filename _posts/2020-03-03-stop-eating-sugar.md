@@ -41,4 +41,4 @@ Listen to what your body says **after** you eat something. That cheesecake proba
 
 Don't look at "official diet recommendations", look at results.
 
-_P.S. I'm speaking from personal experience and observations here. I understand there may be personal differences in metabolism. Still, I'd like to challenge anyone with a weight problem to leave sugar and other bad carbs out of their diet, and *not* lose weight._
+_P.S. I'm speaking from personal experience and observations here. I understand there may be individual differences in metabolism. Still, I'd like to challenge anyone with a weight problem to leave sugar and other bad carbs out of their diet, and *not* lose weight._
