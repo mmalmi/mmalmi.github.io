@@ -3,7 +3,7 @@ layout: post
 title:  "Javascript live chat tutorial: Free alternative to Firebase"
 date:   2020-02-10 13:37:00 +0000
 tags: tutorial decentralization chat iris
-image: /assets/images/posts/chat.png
+image: https://siriusbusiness.fi/assets/images/posts/chat.png
 ---
 ![Chat example](../assets/images/posts/chat.png)
 
