@@ -31,13 +31,13 @@ I have two heavy meals a day and sometimes nuts (but no peanuts) for breakfast. 
 
 _Good stuff._
 
-I've never been fat, but I used to be nearly 10 kg heavier when I did energy drinks, sugary snacks and desserts. I stopped eating sugar (and grains and dairy) altogether 6 years ago because of skin problems, and as a byproduct I'm lean af. Sugar gave me acne and grains (especially wheat) and dairy gave me skin rashes.
+I've never been exactly fat, but I used to be nearly 10 kg heavier when I did energy drinks, sugary snacks and desserts. I stopped eating sugar (and grains and dairy) altogether 7 years ago because of skin problems, and as a byproduct I'm lean af. Sugar gave me acne and grains (especially wheat) and dairy gave me skin rashes.
 
 I never have to count calories or limit how much I eat. I'm not even doing full paleo or low-carb: I eat rice and sometimes potatoes or sweet potatoes. I just don't eat sugar, grains or dairy.
 
 As a rule of thumb: If you want to be healthier, don't eat stuff that your hunter-gatherer ancestors didn't have. It's not always easy, but it's worth it.
 
-Listen to what your body says **after** you eat something. That cheesecake probably feels like a good idea _before_ rather than _after_ eating it. Whereas, a good steak in your stomach gives a feeling of satisfaction that lasts.
+Listen to what your body says **after** you eat something. That cheesecake probably feels like a good idea _before_ rather than _after_ eating it. Whereas, a good steak in your stomach gives a healthy feeling of satisfaction that lasts.
 
 Don't look at "official diet recommendations", look at results.
 
