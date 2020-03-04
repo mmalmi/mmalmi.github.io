@@ -23,7 +23,7 @@ You should also skip high-sugar fruits that our ancestors did not have: plants t
 
 **"Calorie is a calorie" is thermodynamically correct, but not true when it comes to diet.** It's like saying "it doesn't matter if you drink booze or beer as long as you get the same amount of alcohol". Alcohol intake is much easier to regulate with mild beverages. The same applies to energy intake with low-glycemic-index products.
 
-When you eat sugar, it gives you an initial energy boost, but it doesn't last long. Soon you'll be hungry again. Get your calories from high-quality fats and (optionally) slow carbs instead. Never eat "light" products.
+When you eat sugar, it gives you an initial energy boost, but it doesn't last long. Insulin does its thing and soon you'll be hungry again. Get your calories from high-quality fats and (optionally) slow carbs instead. Never eat "light" products.
 
 I have two heavy meals a day and sometimes nuts (but no peanuts) for breakfast. That's about it. I don't get hangry like I used to and skipping or postponing a meal is not as much of a problem. I hear some hardcore folks even do one meal a day.
 
@@ -37,7 +37,7 @@ I never have to count calories or limit how much I eat. I'm not even doing full 
 
 As a rule of thumb: If you want to be healthier, don't eat stuff that your hunter-gatherer ancestors didn't have. It's not always easy, but it's worth it.
 
-Listen to what your body says **after** you eat something. That cheesecake probably feels like a good idea _before_ rather than _after_ eating it. Whereas, a good steak in your stomach gives a healthy feeling of satisfaction that lasts.
+Listen to what your body says **after** you eat something. That cheesecake probably feels like a good idea _before_ rather than _after_ eating it. Whereas, a good steak in your stomach gives you a healthy feeling of satisfaction that lasts.
 
 Don't look at "official diet recommendations", look at results.
 
