@@ -37,7 +37,7 @@ I never have to count calories or limit how much I eat. I'm not even doing full 
 
 As a rule of thumb: If you want to be healthier, don't eat stuff that your hunter-gatherer ancestors didn't have. It's not always easy, but it's worth it.
 
-Listen to what your body says **after** you eat something. That cheesecake probably feels like a good idea _before_ rather than _after_ eating it. Whereas, a good steak in your stomach gives you a healthy feeling of satisfaction that lasts.
+Listen to what your body says **after** you eat something. That cheesecake probably feels like a good idea _before_ rather than _after_ eating it. Whereas, a good steak in your stomach (avocado or nuts for vegetarians?) gives you a healthy feeling of satisfaction that lasts.
 
 Don't look at "official diet recommendations", look at results.
 
