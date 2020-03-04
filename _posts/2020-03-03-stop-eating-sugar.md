@@ -23,7 +23,7 @@ You should also skip high-sugar fruits that our ancestors did not have: plants t
 
 **"Calorie is a calorie" is thermodynamically correct, but not true when it comes to diet.** It's like saying "it doesn't matter if you drink booze or beer as long as you get the same amount of alcohol". Alcohol intake is much easier to regulate with mild beverages. The same applies to energy intake with low-glycemic-index products.
 
-When you eat sugar, it gives you an initial energy boost, but insulin soon catches up and blood sugar drops. Soon you'll be hungry again. Get your calories from good-quality fats and (optionally) slow carbs instead. Never eat "light" products.
+When you eat sugar, it gives you an initial energy boost, but it doesn't last long. Soon you'll be hungry again. Get your calories from high-quality fats and (optionally) slow carbs instead. Never eat "light" products.
 
 I have two heavy meals a day and sometimes nuts (but no peanuts) for breakfast. That's about it. I don't get hangry like I used to and skipping or postponing a meal is not as much of a problem. I hear some hardcore folks even do one meal a day.
 
