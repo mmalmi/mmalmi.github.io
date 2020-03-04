@@ -21,7 +21,7 @@ No juice or fruit smoothies. Personally, I drink just water, coffee and tea (and
 
 You should also skip high-sugar fruits that our ancestors did not have: plants that have been artificially bred to contain a lot more sugar than they naturally had. That includes bananas, dates, raisins etc.
 
-**"Calorie is a calorie" is thermodynamically correct, but idiotic when it comes to diet.** It's like saying "it doesn't matter if you drink booze or beer as long as you get the same amount of alcohol". Alcohol intake is much easier to regulate with mild beverages. The same applies to energy intake with low-glycemic-index products.
+**"Calorie is a calorie" is thermodynamically correct, but not true when it comes to diet.** It's like saying "it doesn't matter if you drink booze or beer as long as you get the same amount of alcohol". Alcohol intake is much easier to regulate with mild beverages. The same applies to energy intake with low-glycemic-index products.
 
 When you eat sugar, it gives you an initial energy boost, but insulin soon catches up and blood sugar drops. Soon you'll be hungry again. Get your calories from good-quality fats and (optionally) slow carbs instead. Never eat "light" products.
 
@@ -35,7 +35,7 @@ I've never been fat, but I used to be nearly 10 kg heavier when I did energy dri
 
 I never have to count calories or limit how much I eat. I'm not even doing full paleo or low-carb: I eat rice and sometimes potatoes or sweet potatoes. I just don't eat sugar, grains or dairy.
 
-If you want to be healthier, don't eat stuff that your hunter-gatherer ancestors didn't have. It's not always easy, but it's worth it.
+As a rule of thumb: If you want to be healthier, don't eat stuff that your hunter-gatherer ancestors didn't have. It's not always easy, but it's worth it.
 
 Listen to what your body says **after** you eat something. That cheesecake probably feels like a good idea _before_ rather than _after_ eating it. Whereas, a good steak in your stomach gives a feeling of satisfaction that lasts.
 
