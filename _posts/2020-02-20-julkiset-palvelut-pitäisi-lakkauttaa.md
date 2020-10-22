@@ -22,7 +22,7 @@ Usko julkisiin palveluihin taitaakin olla tunnekysymys eikä järkiasia. Sen huo
 
 Mahdollisia syitä ovat myös Tukholma-syndrooma tai julkisella sektorilla työskentelystä johtuva eturistiriita (työssäkäyvistä miehistä 16% ja naisista 41% työskenteli julkisella [2009](https://www.stat.fi/til/tyokay/2009/04/tyokay_2009_04_2011-11-28_kat_001_fi.html) — selittänee osaltaan myös sukupuolittunutta äänestyskäyttäytymistä). Enpä ole vielä tavannut opettajaa tai lääkäriä, jonka mielestä veronmaksajan pitäisi saada päättää kenelle opettajalle tai lääkärille antaa rahansa. Tai sitten kyse on vain status quon sisäistämisestä luonnollisena asiaintilana ja muutosvastarinnasta.
 
-Koulukiusaamisesta, homekouluista, hoitojonoista, vanhustenhoidosta, puutteellisista resursseista, Apotti-tietojärjestelmästä ja kaikesta mahdollisesta kyllä jaksetaan purnata. Ratkaisuksi änkyrät vaan eivät ikinä ehdota yksilötason vapautta päättää mistä ostaa palvelunsa, vaan sitä että valtasormus annetaan heille ja koko kansan asiat järjestetään niin kuin he ylimielisessä viisaudessaan parhaaksi katsovat. *"Koulussa kaikille lapsille pitäisi opettaa [plää plää plää]. Enemmän [plaa plaa] ja vähemmän [plöö plöö]. Lisää rahaa julkisiin palveluihin."* Kaikenlaisia hyviäkin ideoita esitetään, mutta julkisen palvelutuotannon eli *"one size fits none"* -ratkaisun ansiosta niitä ei voida vapaasti kokeilla.
+Koulukiusaamisesta, homekouluista, hoitojonoista, vanhustenhoidosta, puutteellisista resursseista, Apotti-tietojärjestelmästä ja kaikesta mahdollisesta kyllä jaksetaan purnata. Ratkaisuksi änkyrät vaan eivät ikinä ehdota yksilötason vapautta päättää mistä ostaa palvelunsa, vaan sitä että valtasormus annetaan heille ja koko kansan asiat järjestetään niin kuin he ylimielisessä viisaudessaan parhaaksi katsovat. *"Koulussa kaikille lapsille pitäisi opettaa [plää plää plää]. Enemmän [plaa plaa] ja vähemmän [plöö plöö]. Lisää rahaa julkisiin palveluihin."* Kaikenlaisia hyviäkin ideoita esitetään, mutta julkisen palvelutuotannon eli *"one size fits none"* -ratkaisun ansiosta niitä ei voida vapaasti kokeilla ja kehittää.
 
 **Heikommista huolehtiminen on arvokas päämäärä.** Se saavutetaan paremmin **antamalla heille rahaa tai palveluseteli** kuin tuottamalla palveluita julkisesti, eli sosialistisessa suunnitelmataloudessa. Oleellista on, että palvelun kilpailuttaa asiakas itse, eikä joku kaikkien puolesta monoliittisen päätöksen tekevä byrokraatti.
 
@@ -50,7 +50,7 @@ Sääli, ettei samoissa merkeissä voi jatkaa koulun penkille. Toisin kuin varha
 
 On kieroutunutta, että työssäkäyvät ja muutenkin omillaan toimeentulevat ihmiset ensin maksavat [puolet tuloistaan](https://veroaste.fi) veroina ja joutuvat sitten anelemaan osan rahoistaan takaisin erilaisina avustuksina Kelan, kunnan tai koulun tapauksessa ministeriön virkailijoilta. Jonkun änkyrän mielestä näistä tuista tai "ilmaisista" palveluista pitäisi vielä olla kiitollinen.
 
-Jos hintalappu ei olisi niin taitavasti piilotettu (alvit, työnantajan tilittämät verot ja muut maksut) vaan joutuisit itse maksamaan sen kuukausittain tilisiirtona, "hyvinvointivaltion" ja sen "ilmaisten" palveluiden faneja saattaisikin olla [vähemmän](https://www.hs.fi/kotimaa/art-2000006403887.html). Jos nettopalkkasi on nyt esimerkiksi 2000€/kk, tilillesi tulisi 4000€ ja siirtäisit siitä verottajalle 2000€.
+Jos hintalappu ei olisi niin taitavasti piilotettu (alvit, työnantajan tilittämät verot ja muut maksut) vaan joutuisit itse maksamaan sen kuukausittain tilisiirtona, "hyvinvointivaltion" ja sen "ilmaisten" palveluiden faneja saattaisikin olla [vähemmän](https://www.hs.fi/kotimaa/art-2000006403887.html). Jos nettopalkkasi on nyt esimerkiksi 2000€/kk, tilillesi tulisi 4000€ ja siirtäisit siitä verottajan tilille kuukausittain 2000€.
 
 Kaiken kukkuraksi moni joutuu vielä **lisäksi** maksamaan sille yksityiselle lääkärille, kun julkiselta ei saanutkaan palvelua, tai ei ollut mahdollista jonottaa tuntikausia päivystyksessä.
 
@@ -69,6 +69,8 @@ _Kuva sovellettuna:_
 
 Tämän kirjoituksen tarkoituksena onkin se että voin sanoa "mitäs minä sanoin" kun nykyjärjestelmä vielä joskus kaatuu kuin Berliinin muuri ja vapaus koittaa. Sillä välin käytän vain yksityisiä palveluita, sikäli kun siihen näin keskiluokkaisena on vielä verojen jälkeen varaa.
 
+Runnutuksen lopuksi täytynee todeta, että Suomi on kaikesta huolimatta yksi maailman parhaimmista maista. Mutta se ei johdu siitä että julkiset menot ovat yli 50% bkt:stä, vaan fiksuista ihmisistä, luottamuksen kulttuurista, puhtaasta luonnosta jne. Paljon olisi kuitenkin vielä korjattavaa.
+
 _P.S. Terkkuja tuttavapiirin lääkäreille ja opettajille. En nyt kritisoi arvokasta työtänne, vaan sitä miten palveluiden tuotanto on järjestetty. Asiat voisivat olla kaikkien kannalta paremmin._
 
-_P.P.S. Jos julkiset palvelut toimivat mielestäsi hienosti, käytä niitä kaikin mokomin. Älä silti määräile miten meidän muiden pitää elää. Jos olet sitä mieltä että emme mahdu samaan maahan, muuta vaikka Venezuelaan tai Pohjois-Koreaan._
+_P.P.S. Jos julkiset palvelut toimivat mielestäsi hienosti, käytä niitä kaikin mokomin. Älä silti määräile miten meidän muiden pitää elää.
