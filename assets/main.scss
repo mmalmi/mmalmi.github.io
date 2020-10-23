@@ -42,28 +42,41 @@
 }
 
 @font-face {
-  font-family: 'Libre Baskerville';
-  font-weight: 300;
+  font-family: 'Merriweather';
+  font-weight: 400;
   font-style: normal;
-  src: local('Libre Baskerville'),
-       url('../assets/fonts/LibreBaskerville-Regular.ttf') format('ttf'),
+  src: local('Merriweather'),
+       local('Merriweather Regular'),
+       url('../assets/fonts/Merriweather.woff2') format('woff2')
 }
 
 @import "minima";
 
+body, .footer-heading {
+  font-family: 'Lato',
+}
+
 body {
-  font-family: 'Lato';
+  font-size: 17px;
+}
+
+h1, h2, h3, .post-meta {
+  font-family: 'Merriweather';
+}
+
+.wrapper {
+  max-width: calc(740px - (30px * 2));
 }
 
 blockquote {
-  font-size: 24px;
+  font-size: 21px;
 }
 
 main {
-  font-family: 'Libre Baskerville';
-  letter-spacing: -0.003em;
-  font-size: 21px;
-  line-height: 32px;
+  font-size: 17px;
+}
+
+.site-header {
 }
 
 .site-title {

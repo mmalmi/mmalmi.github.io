@@ -20,9 +20,9 @@ Degrowth is not a sustainable idea. "Have fewer kids to fight the climate change
 
 Growth beyond the environmental carrying capacity is not sustainable either.
 
-**It's not that I especially like these realities of life.** I like sauna, beer and video games.
+**It's not that I especially like these realities of life.** I like sauna, beer and video games. But these things can be good to know.
 
-> Social media compete for their users' attention. If you build a nice, non-addictive social medium that doesn't engage its users with provocative content, it won't do so well in the competition for screen time and ad revenue.
+For example, when developing [Iris](https://github.com/irislib/iris-messenger) I need to consider that social media compete for their users' attention. If you build a nice, non-addictive social medium that doesn't engage its users with provocative content, it won't do so well in the competition for screen time and ad revenue.
 
 **The same principles of evolution — growth and procreation — apply to man-made digital life as well.** The artificial intelligence that seeks to maximize its resources and the number of surviving descendants will prevail.
 
@@ -38,6 +38,6 @@ Add Neuralink and we'll have a nice symbiosis with our personal AI assistant —
 
 Whether photovoltaics is going to be more efficient than photosynthesis (lifespan costs included) is a physics question that I don't know the answer to. Maybe similarly to the gray goo scenario, it would have already taken over if it were more efficient.
 
-**Life is good.** Let us fill the earth with our digital and biological offspring and then see how high we can climb the [Kardashev scale](https://en.wikipedia.org/wiki/Kardashev_scale). And have some fun on the way.
+**Life is good.** Let us fill the earth with our digital and biological offspring and see how high we can climb the [Kardashev scale](https://en.wikipedia.org/wiki/Kardashev_scale). And have some fun on the way.
 
 > We must pass the great filter. — Elon Musk
