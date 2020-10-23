@@ -41,11 +41,29 @@
        url('../assets/fonts/Lato-900/Lato-900.woff') format('woff');
 }
 
+@font-face {
+  font-family: 'Libre Baskerville';
+  font-weight: 300;
+  font-style: normal;
+  src: local('Libre Baskerville'),
+       url('../assets/fonts/LibreBaskerville-Regular.ttf') format('ttf'),
+}
+
 @import "minima";
 
 body {
   font-family: 'Lato';
-  font-size: 17px;
+}
+
+blockquote {
+  font-size: 24px;
+}
+
+main {
+  font-family: 'Libre Baskerville';
+  letter-spacing: -0.003em;
+  font-size: 21px;
+  line-height: 32px;
 }
 
 .site-title {
