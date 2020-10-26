@@ -21,7 +21,7 @@ Free market and private property are good ideas (i.e. surviving ideas) because t
 
 Degrowth is not a sustainable idea. "Have fewer kids to fight the climate change" and other variants of the Voluntary Human Extinction Movement are not evolutionarily fit memes, except for the comedy value. Pro-life cultures and genes will be the winners of evolution. More so in the current age of abundance, where you can have as many children as you can be bothered to, and basically all of them will survive.
 
-Of course, growth beyond the environmental carrying capacity is not sustainable either. When land is privately owned, there is some incentive to not ruin its environmental value. But also your neighbour's land, water, breathing air and other externalities must be priced in for the economic calculator to care for them. Doing that on the global scale is not an easy one.
+Of course, growth beyond the environmental carrying capacity is not sustainable either. When land is privately owned, there is some incentive to not ruin its environmental value. But also your neighbour's land, water, breathing air and other externalities must have a price tag for the economic calculator to care for them. Doing that on the global scale is not an easy one.
 
 You don't have to like these "ruthless darwinian" theories of life, but I believe they can be good to know if you want to build a business, product or idea that survives and thrives.
 
