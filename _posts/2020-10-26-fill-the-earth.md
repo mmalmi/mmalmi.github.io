@@ -11,7 +11,7 @@ image: https://siriusbusiness.fi/assets/images/posts/kardashev.png
 
 > God blessed them and said to them, "Be fruitful and increase in number; fill the earth and subdue it."
 
-**All living things must grow and procreate, or be replaced by something that does.** The same applies to biological organisms, human organizations and ideas, or memes.
+**All living things must survive and procreate, or be replaced by something that does.** The same applies to biological organisms, human organizations and ideas, or memes.
 
 Hunter-gatherers were replaced by agriculturists, who could harvest more of the sun's energy and sustain larger populations. Stationary farmers were easier to tax than their predecessors — thus formed governments.
 
