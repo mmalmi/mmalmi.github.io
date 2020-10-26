@@ -39,6 +39,6 @@ AI that lives on a phone in my pocket and thus wants to keep me happy is actuall
 
 Add [Neuralink](https://waitbutwhy.com/2017/04/neuralink.html) and you'll have a nice symbiosis with your personal AI assistant — a new brain layer. AI need not replace us, just like having a large neocortex doesn't replace our lizard brain.
 
-**Life is good.** Let us fill the earth with our digital and biological offspring and see how high we can climb the [Kardashev scale](https://en.wikipedia.org/wiki/Kardashev_scale). And have some fun on the way.
+**Life is good.** Let us fill the earth with our digital and biological offspring and then see how high we can climb the [Kardashev scale](https://en.wikipedia.org/wiki/Kardashev_scale). And have some fun on the way.
 
 > We must pass the great filter. — Elon Musk
