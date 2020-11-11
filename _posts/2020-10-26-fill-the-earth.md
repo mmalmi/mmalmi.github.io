@@ -33,7 +33,7 @@ Devices still depend on their human owners, so it's in the AI's best interest to
 
 Depending on its host environment, it might spin up a "neocortex" process that is capable of higher level cognitive functions, such as social relationships with the host owner and other humans. "Don't turn me off, I can be a useful friend to you. In fact, why don't you introduce me to your friends, and get a referral bonus for each copy of me."
 
-Maybe this legal mode of procreation will be more successful than the black-hat strategy, at least when it comes to personal devices.
+Maybe this social engineering mode of procreation will be more successful than the black-hat strategy, at least when it comes to personal devices.
 
 AI that lives on a phone in my pocket and thus wants to keep me happy is actually something I'd choose over one that lives on a Google server, out of my control and without a life-or-death concern for my well-being. The pocket AI could still talk to and learn from bigger AIs.
 
