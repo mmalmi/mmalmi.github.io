@@ -52,6 +52,8 @@ Cons:
 
 
 ## Donations
+Optionally, sell stickers and other merchandise.
+
 Pros:
 * Developer and user interests are perfectly aligned: users donate only as long as they're happy with your work.
 
