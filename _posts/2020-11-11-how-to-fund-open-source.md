@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to Fund Open Source"
+title:  "How to Fund Open Source Software"
 date:   2020-11-11 07:37:00 +0000
 tags: economics
 published: true
@@ -8,7 +8,7 @@ description: "Have fund."
 image: https://siriusbusiness.fi/assets/images/posts/letsfindout.jpeg
 ---
 
-In the [previous post](https://siriusbusiness.fi/fill-the-earth) we discussed growth, broadly speaking. Now it's time to talk about survival and growth of open source projects.
+In the [previous post](https://siriusbusiness.fi/fill-the-earth) we discussed growth, broadly speaking. Now it's time to talk about survival and growth of open source software projects.
 
 Companies that promise a good return on investment generally have no difficulty raising as much capital as they need.
 
@@ -58,7 +58,7 @@ Pros:
 * Developer and user interests are perfectly aligned: users donate only as long as they're happy with your work.
 
 Cons:
-* You need to have a product and a large user base first
+* You need to have the product and a large user base first
 
 
 ## Community contributions
