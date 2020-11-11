@@ -25,7 +25,7 @@ Pros:
 * Blockchain is cool — just say the word and get free press coverage.
 
 Cons:
-* Unless you come up with an exceptionally good long-term value proposal, and a good reason why your token suits its purpose better than Bitcoin, this funding method is unethical. Bad example: Dental coin. Potentially good example: Filecoin.
+* Unless you come up with an exceptionally good long-term value proposal, and a good reason why your token suits its purpose better than Bitcoin, this funding model is unethical. Funny money: Dentacoin. Potentially good coin: Filecoin.
 * Legal concerns.
 
 
@@ -38,7 +38,7 @@ Pros:
 Cons:
 * Restrictive license may be a turn-off for some users
 * Probably doesn't bring revenue from end-user applications
-
+* Based on the potentially unsustainable or unethical concept of [copyright](https://en.wikipedia.org/wiki/Criticism_of_copyright)
 
 ## Crowdfunding
 Do a kickstarter campaign. There are marketing professionals who have experience with crowdfunding — maybe ask their help.
