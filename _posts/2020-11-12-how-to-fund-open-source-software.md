@@ -61,6 +61,10 @@ Cons:
 * You need to have the product and a large user base first
 
 
+## Grants
+Some organizations like the Mozilla Foundation or the European Union have grant programs for open source development. Not a long term solution, but can help get you started.
+
+
 ## Community contributions
 El Dorado. Not actually a funding method, but same result: the software gets developed. Even better, developers are in for it because they like or need the product.
 
