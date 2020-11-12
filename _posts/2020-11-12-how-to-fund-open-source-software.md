@@ -92,6 +92,8 @@ Or maintain a marketplace where buyers and sellers meet, while you take care of 
 
 Check out [COSSI](https://docs.google.com/spreadsheets/d/17nKMpi_Dh5slCqzLSFBoWMxNvWiwt2R-t4e_l7LPLhU/edit#gid=0): $100M+ Revenue Commercial Open-Source Software (COSS) Company Index.
 
+And the story of (Sidekiq)[https://www.indiehackers.com/interview/how-charging-money-for-pro-features-allowed-me-quit-my-job-6e71309457], a free open source utility that offers Pro and Enterprise commercial extensions.
+
 ---
 
 How should I fund or resource [Iris](https://github.com/irislib/iris-messenger)? Something to add? Let me know! 👇
