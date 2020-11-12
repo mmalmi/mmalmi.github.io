@@ -82,7 +82,7 @@ Maintain your MIT licensed product while selling something related.
 
 Preferably sell something other than support and consulting. It doesn't scale all that well: you'd need to sell 10 hours of support to fund 1 hour of development, or so.
 
-And if I may advise, **don't choose an ad-based business model**. When you're selling the user's attention to the advertiser, your interests are misaligned with the user's interests. You're incentivised to get the user's attention with questionable means such as addiction engineering, clickbaiting and provoking outrage.
+And if I may advise, **don't choose an ad-based business model**. When you're selling the user's attention to the advertiser, your interests are misaligned with the user's interests. You're incentivised to get the user's attention with questionable means such as addiction engineering, clickbaiting and provoking outrage. Meanwhile, you're littering the user experience with ads.
 
 > "Fundamentally, the moral structure of advertisement is messed up and that's the root of the problem." — Tesla CEO
 
