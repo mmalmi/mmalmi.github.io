@@ -32,6 +32,8 @@ Cons:
 ## Dual-licensing
 MySQL, acquired by Oracle for **one billion dollars** in 2013, is perhaps the most successful example of dual-licensing. You can use the MySQL database for free under the GPLv2 license, which requires you to distribute any derivative work under the same or equivalent license. Alternatively, you can pay for a proprietary license that doesn't have the same restriction.
 
+Check out [COSSI](https://docs.google.com/spreadsheets/d/17nKMpi_Dh5slCqzLSFBoWMxNvWiwt2R-t4e_l7LPLhU/edit#gid=0): $100M+ Revenue Commercial Open-Source Software (COSS) Company Index.
+
 Pros:
 * Proven business model for software components. You could start a for-profit and get venture capital.
 
@@ -52,7 +54,7 @@ Cons:
 
 
 ## Donations
-You can support multiple donation options like cryptocurrency, Open Collective, Github Sponsors or Patreon. Optionally, sell stickers and other merchandise. Strong branding and meme magic can help.
+You can support multiple donation options like cryptocurrency, Open Collective, Github Sponsors or Patreon. Optionally, sell stickers (physical or virtual) and other merchandise. Strong branding and meme magic can help.
 
 Pros:
 * Developer and user interests are perfectly aligned: users donate only as long as they're happy with your work.
