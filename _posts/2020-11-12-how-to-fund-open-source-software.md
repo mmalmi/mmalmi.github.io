@@ -52,7 +52,7 @@ Cons:
 
 
 ## Donations
-Optionally, sell stickers and other merchandise. Strong branding and meme magic can help.
+You can support multiple donation options like cryptocurrency, Open Collective, Github Sponsors or Patreon. Optionally, sell stickers and other merchandise. Strong branding and meme magic can help.
 
 Pros:
 * Developer and user interests are perfectly aligned: users donate only as long as they're happy with your work.
