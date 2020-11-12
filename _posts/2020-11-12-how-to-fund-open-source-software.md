@@ -74,7 +74,7 @@ Pros:
 Cons:
 * If the project is only run by volunteers, boring stuff like UX intricacies may be neglected.
 * May require a critical mass of users to survive and grow.
-* Doesn't bring you any revenue
+* As the project maintainer you still need some other source of income
 
 
 ## Complementary business
