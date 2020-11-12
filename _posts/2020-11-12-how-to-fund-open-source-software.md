@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Fund Open Source Software"
-date:   2020-11-11 07:37:00 +0000
+date:   2020-11-12 07:37:00 +0000
 tags: economics
 published: true
 description: "Have fund."
@@ -12,7 +12,7 @@ In the [previous post](https://siriusbusiness.fi/fill-the-earth) we discussed gr
 
 Companies that promise a good return on investment generally have no difficulty raising as much capital as they need.
 
-But how do you fund an idealistic open source project that makes no such promises, and just wants to build something that ultimately serves the humanity better than Facebook, Google and Amazon?
+But how do you fund an idealistic open source project that makes no such promises, and _only_ wants to build something that ultimately serves the humanity better than Facebook, Google and Amazon?
 
 ![LET'S FIND OUT!](/assets/images/posts/letsfindout.jpeg)
 
@@ -21,7 +21,7 @@ But how do you fund an idealistic open source project that makes no such promise
 Also known as Initial Coin Offerings (ICO) or "tokens".
 
 Pros:
-* Viral incentives: early adopters are rewarded and turned into relentless brand ambassadors. Merely whispering the three letters "I C O" will attract opportunists who want to buy first and be on the top of the pyramid.
+* Viral incentives: early adopters are rewarded and turned into zealous brand ambassadors. Merely whispering the three letters "I C O" will attract opportunists who want to buy first and be on the top of the pyramid.
 * Blockchain is cool — just say the word and get free press coverage.
 
 Cons:
@@ -33,7 +33,7 @@ Cons:
 MySQL, acquired by Oracle for **one billion dollars** in 2013, is perhaps the most successful example of dual-licensing. You can use the MySQL database for free under the GPLv2 license, which requires you to distribute any derivative work under the same or equivalent license. Alternatively, you can pay for a proprietary license that doesn't have the same restriction.
 
 Pros:
-* Proven business model for software libraries. You could start a for-profit and get venture capital.
+* Proven business model for software components. You could start a for-profit and get venture capital.
 
 Cons:
 * Restrictive license may be a turn-off for some users
@@ -41,7 +41,7 @@ Cons:
 * Based on the potentially unsustainable or unethical concept of [copyright](https://en.wikipedia.org/wiki/Criticism_of_copyright)
 
 ## Crowdfunding
-Do a kickstarter campaign. There are marketing professionals who have experience with crowdfunding — maybe ask their help.
+Do a kickstarter campaign. You need to sell an idea, a story. There are marketing professionals who have experience with crowdfunding — maybe ask their help.
 
 Pros:
 * You can get started without an existing product or user base
@@ -52,7 +52,7 @@ Cons:
 
 
 ## Donations
-Optionally, sell stickers and other merchandise.
+Optionally, sell stickers and other merchandise. Strong branding and meme magic can help.
 
 Pros:
 * Developer and user interests are perfectly aligned: users donate only as long as they're happy with your work.
@@ -62,7 +62,7 @@ Cons:
 
 
 ## Community contributions
-El Dorado. Not actually a funding method, but same result: the software gets developed. Even better, developers are in because they like or need the product.
+El Dorado. Not actually a funding method, but same result: the software gets developed. Even better, developers are in for it because they like or need the product.
 
 Pros:
 * If your project is useful and interesting enough, just release it under the MIT license and watch it flourish on community contributions.
@@ -78,14 +78,14 @@ Maintain your MIT licensed product while selling something related.
 
 Preferably sell something other than support and consulting. It doesn't scale all that well: you'd need to sell 10 hours of support to fund 1 hour of development, or so.
 
-And if I may advise, **don't choose an ad-based business model**. To quote the Tesla CEO again, _"there's something wrong with the moral structure of advertising."_
+And if I may advise, **don't choose an ad-based business model**. When you're selling the user's attention to the advertiser, your interests are misaligned with the user's interests. You're incentivised to get the user's attention with questionable means such as addiction engineering, clickbaiting and provoking outrage.
 
-When you're selling the user's attention to the advertiser, your interests are misaligned with the user's interests. You're incentivised to get the user's attention with questionable means such as addiction engineering, clickbait journalism and outrage culture.
+> "Fundamentally, the moral structure of advertisement is messed up and that's the root of the problem." — Tesla CEO
 
-In my opinion, **subscription-based services** are often the most ethical. In the context of open source software, you would fundamentally sell bandwidth, hosting and convenience.
+In my opinion, **subscription services** that you can cancel at any time are often the more ethical ones. In the context of open source software, you would fundamentally sell bandwidth, hosting and user experience.
 
-Or maintain a marketplace where buyers and sellers meet, while you take care of the user experience, payments and dispute resolution.
+Or maintain a marketplace where buyers and sellers meet, while you take care of the UX, payments and dispute resolution.
 
 ---
 
-Something to add? Let me know! 👇
+How should I fund or resource [Iris](https://github.com/irislib/iris-messenger)? Something to add? Let me know! 👇
