@@ -4,7 +4,7 @@ title:  "How to Fund Open Source Software"
 date:   2020-11-12 07:37:00 +0000
 tags: economics
 published: true
-description: "Have fund."
+description: "It’s time to talk about survival and growth of open source software projects."
 image: https://siriusbusiness.fi/assets/images/posts/letsfindout.jpeg
 ---
 
