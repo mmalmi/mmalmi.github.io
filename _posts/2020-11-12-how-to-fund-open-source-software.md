@@ -48,7 +48,7 @@ Pros:
 
 Cons:
 * Misalignment of incentives: when you get the money beforehand, you're not financially dependent on delivering on the promise.
-* Stress from the crowd breathing in your neck
+* Stress from the crowd breathing down your neck
 
 
 ## Donations
