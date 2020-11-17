@@ -3,7 +3,7 @@ layout: post
 title:  "Save the world from ads"
 date:   2020-11-17 01:37:00 +0000
 tags: economics
-published: true
+published: false
 description: "Let's have something better than ad-funded media."
 image: https://siriusbusiness.fi/assets/images/posts/letsfindout.jpeg
 ---
@@ -34,4 +34,4 @@ The centralization problem still remains though: Brave or Apple could be pressur
 
 Solution to that is decentralized open source social media *protocols*, as opposed to privately owned *platforms*. In order to fund their development, you'd need the funding model first though.
 
-I believe this is a very, very important idea that will eventually realise and bring us closer to a future of well-being and harmony. If you agree, please spread the word!
+I believe this is a very, very important idea that will eventually become reality and bring us closer to a future of well-being and harmony. If you agree, please spread the word!
