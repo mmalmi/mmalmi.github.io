@@ -5,7 +5,7 @@ date:   2020-11-17 01:37:00 +0000
 tags: economics
 published: true
 description: "Let's have something better than the ad-funded media."
-image: https://siriusbusiness.fi/assets/images/posts/facehugger.jpeg
+image: https://siriusbusiness.fi/assets/images/posts/facehugger.jpg
 ---
 ![AAAAARGH](/assets/images/posts/facehugger.jpg)
 
