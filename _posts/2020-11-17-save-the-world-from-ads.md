@@ -33,7 +33,7 @@ Although Brave's contribution model is fundamentally right, I can't recommend it
 
 ![AAAAARGH](/assets/images/posts/adblock.jpg)
 
-My free money-making tip to Apple and other device manufacturers: **block ads from mobile apps and enable contributions instead**. You have the payment rails, development resources and everything that's needed. As a byproduct, you get more refined screen time metrics, which helps your users reflect on their device use.
+My free money-making tip to Apple and other device manufacturers: **block ads from mobile apps and enable contributions instead**. You have the payment rails, development resources and everything that's needed. As a byproduct, you get more refined screen time metrics, which helps your customers reflect on their device use.
 
 People who don't have a credit card can get contribution credits as a part of their mobile subscription, in-built to their phone, or through other prepayment. Friends and family could contribute to each other, since they don't lose much by doing so. Or if you want, you can still choose to sell your attention to select advertisers for a few cents, which you can then distribute to the best content creators.
 
@@ -47,6 +47,6 @@ I believe the contribution model could be a lot more sustainable and ethical bas
 
 The best way to advertise online will be to create ads or products so good that people *want* to follow and share them. Or influencer marketing, where at least the influencer, with their brand at stake, sets the standard for ad quality and ethics.
 
-Hopefully, with a more user-friendly business model we can shape a future where technology brings us not depression, distraction and division, but joy, well-being and harmony.
+As the old saying goes: *"If you're not paying for it, you're not the customer; you're the product being sold."* Hopefully, by reversing this business model we can shape a future where technology brings us not depression, distraction and division, but joy, well-being and harmony.
 
 **If you agree, please spread the word!**
