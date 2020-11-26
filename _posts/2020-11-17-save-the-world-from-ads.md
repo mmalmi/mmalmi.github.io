@@ -35,7 +35,7 @@ Although Brave's contribution model is fundamentally right, I can't recommend it
 
 My free money-making tip to Apple and other device manufacturers: **block ads from mobile apps and enable contributions instead**. You have the payment rails, development resources and everything that's needed. As a byproduct, you get more refined screen time metrics, which helps your customers reflect on their device use.
 
-People who don't have a credit card can get contribution credits as a part of their mobile subscription, in-built to their phone, or through other prepayment. Friends and family could contribute to each other, since they don't lose much by doing so. Or if you want, you can still choose to sell your attention to select advertisers for a few cents, which you can then distribute to the best content creators.
+People who don't have a credit card can get contribution credits as a part of their mobile subscription, in-built to their phone, or through other prepayment. Friends and family could contribute to each other, since they don't lose basically anything by doing so. Or if you want, you can still choose to sell your attention to select advertisers for a few cents, which you can then distribute to the best content creators.
 
 **Now the app developers and content creators are incentivised for user appreciation, not for screen time maximization.**
 
