@@ -13,7 +13,7 @@ Ad-funded online media have been under scrutiny lately. Arguably, the business m
 
 > “Fundamentally, the moral structure of advertisement is messed up and that’s the root of the problem.” — Tesla CEO
 
-How to fix the problem? Recognising it is the first step. The famous Netflix documentary Social Dilemma did a great job raising awareness of these issues, as do [Center for Humane Technology](https://www.humanetech.com/), [EFF](https://www.eff.org/) and [Mozilla Foundation](https://foundation.mozilla.org/en/)
+How to fix the problem? Recognising it is the first step. The famous Netflix documentary Social Dilemma did a great job raising awareness of these issues, as do [Center for Humane Technology](https://www.humanetech.com/), [EFF](https://www.eff.org/) and [Mozilla Foundation](https://foundation.mozilla.org/en/).
 
 If the concern becomes widespread, we may see government regulation of online media similar to the regulation of cigarettes, gambling, pollution and other causes of public harm. However, the global and quickly evolving playground of the internet may be much more difficult to regulate. It may be a game of whack-a-mole.
 
