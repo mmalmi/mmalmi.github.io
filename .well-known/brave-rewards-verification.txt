@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: siriusbusiness.fi
+Token: 35ca48bf5f41bdc458586e2ab7cb81589d1eb05eaa9e3fb9e0069b7e812f44ff
