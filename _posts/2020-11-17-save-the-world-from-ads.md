@@ -47,6 +47,6 @@ I believe the contribution model could be a lot more sustainable and ethical bas
 
 The best way to advertise online will be to create ads or products so good that people *want* to follow and share them. Or influencer marketing, where at least the influencer, with their brand at stake, sets the standard for ad quality and ethics.
 
-Hopefully a user-friendly business model can shape a future where technology brings us not depression, distraction and division, but joy, well-being and harmony.
+Hopefully, with a more user-friendly business model we can shape a future where technology brings us not depression, distraction and division, but joy, well-being and harmony.
 
 **If you agree, please spread the word!**
