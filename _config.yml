@@ -33,7 +33,7 @@ permalink: /:title
 # seo
 twitter:
   username: marttimalmi
-  card: summary
+  card: summary_large_image
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -46,5 +46,3 @@ twitter:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-include: [".well-known"]
