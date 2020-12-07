@@ -52,6 +52,8 @@ A pre-designated reporter will report on the outcome of the prediction on the Et
 
 Or you could have mutual insurance pools where participants trust each other and process claims together. For governance, you could use multi-signature Bitcoin wallets: for example, 3 out of 5 participants would be required to approve a claim and move the funds. Pools could be formed by individuals as well as retail insurers. Pools could buy reinsurance from [reputable](https://siriusbusiness.fi/learning-to-trust-strangers) super-pools that the end user can always appeal their claims to.
 
-Economy of scale is needed to get the most out of any insurance system. You need enough capital to hire (or incentivise) people who quantify risks and mitigate them. That capital eagerly awaits opportunities in the crypto world if you just present a good value proposal: say, yearly interest for your bitcoins at a reasonable risk.
+Or it could be something else, like [Etherisc](https://etherisc.com/).
+
+Economy of scale is needed to get the most out of any insurance system. You need enough capital to hire (or incentivise) people who quantify and mitigate even the smallest of risks. That capital eagerly awaits opportunities in the crypto world if you just present a good value proposal: say, yearly interest for your bitcoins at a reasonable risk.
 
 **Free market insurance can help us predict and prepare for the future, and even persuade it.** Whether you worry about the ills of capitalism or the government’s inability to help us, there’s a solution waiting out there: free market insurance.
