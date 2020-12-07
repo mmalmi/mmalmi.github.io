@@ -26,7 +26,7 @@ Free market insurers use no stick, but carrot: they would give you discounts and
 
 *At your own risk. (She’s not eating Twinkies nor riding, but at least I got your attention.)*
 
-In their own financial interest they’d do it all. They’d install a fire alarm into your house. They’d come up with cost-efficient ways to prevent crime in your area. They’d fund unbiased research into product safety and healthy ways of life. They’d put a price tag on pollution that causes harm to our health or property, whether it’s CO2 or noise pollution from the party upstairs. Maybe they’d file a class action lawsuit against the depressing modernist architecture that pollutes our landscape.
+In their own financial interest they’d do it all. They’d install a fire alarm into your house. They’d come up with cost-effective ways to prevent crime in your area. They’d fund unbiased research into product safety and healthy ways of life. They’d put a price tag on pollution that causes harm to our health or property, whether it’s CO2 or noise pollution from the party upstairs. Maybe they’d file a class action lawsuit against the depressing modernist architecture that pollutes our landscape.
 
 **Unfortunately, there is no true free market insurance around.** Insurance is a super-regulated business. Insurers are some of the biggest corporations that lobby the government just like the others. They push laws that limit their competition and make us pay more. Together with the lobbying by big pharma and labor unions, they have made US insurance and healthcare the most expensive in the world.
 
