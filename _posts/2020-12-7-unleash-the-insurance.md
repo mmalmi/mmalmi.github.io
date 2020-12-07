@@ -54,6 +54,6 @@ Or you could have mutual insurance pools where participants trust each other and
 
 Or it could be something else, like [Etherisc](https://etherisc.com/).
 
-Economy of scale is needed to get the most out of any insurance system. You need enough capital to hire (or incentivise) people who quantify and mitigate even the smallest of risks. That capital eagerly awaits opportunities in the crypto world if you just present a good value proposal: say, yearly interest for your bitcoins at a reasonable risk.
+Economy of scale is needed to get the most out of any insurance system. You need enough capital to hire (or incentivise) people who find, quantify and mitigate even the smallest of risks. That capital eagerly awaits opportunities in the crypto world if you just present a good value proposal: say, yearly interest for your bitcoins at a reasonable risk.
 
 **Free market insurance can help us predict and prepare for the future, and even persuade it.** Whether you worry about the ills of capitalism or the government’s inability to help us, there’s a solution waiting out there: free market insurance.
