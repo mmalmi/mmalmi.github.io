@@ -16,7 +16,7 @@ Besides being a [law monopolist](https://siriusbusiness.fi/law-is-better-without
 
 Government indeed has the resources to protect us from harm, but not the incentives: they get to take our money by force, whether they do a good job helping us or not. Don’t pay, go to the cage. Resist and we’ll shoot you if necessary. *Protection racket* may be a more fitting term.
 
-But at least we get to vote! We get to beg and plead for our rights and occasionally change the talking heads in elections, but that doesn’t make too much of a difference. For the lack of a better expression: same sh*t, different a\**hole. The incentives are broken.
+But at least we get to vote! We get to beg and plead for our rights and occasionally change the talking heads in elections, but that doesn’t make too much of a difference. For the lack of a better expression: same sh\*t, different a\*\*hole. The incentives are broken.
 
 In contrast, free market insurers have both the resources and the incentives to protect us. Given fair enforcement of contracts, they lose money when we suffer harm. We only pay them if we so choose, which keeps the relationship mutually beneficial. **Incentives make all the difference, not pleas and petitions.**
 
