@@ -10,27 +10,32 @@ image: https://siriusbusiness.fi/assets/images/posts/cheesecake.jpg
 
 Fed up with writing a ton of Redux boilerplate just to make a form input editable?
 
-There’s a better alternative: Gun.js. It makes state synchronization and persistence super easy:
+There’s a better alternative: Gun.js. It makes state synchronization and persistence super easy.
 
+First, initialize Gun with options that make sure the state is synced with localStorage only (not with peers).
 ```jsx
-// Initialize Gun with options that make sure the state is synced to localStorage only
 const State = new Gun({
     localStorage: true,
-    file: 'State.local', 
-    multicast: false,
-    peers: []
+    file: 'State.local', // localStorage key
+    multicast: false, // on Node.js, Gun would sync with local area network peers over multicast :)
+    peers: [] // this time we don't want to sync with other users
 }).get('state');
+```
 
+Then create a React component that uses the state:
+
+```jsx
 class CommentForm extends React.Component {
     constructor() {
-      super();
-      this.state = {comment:''};
+        super();
+        this.state = {comment:''};
     }
     componentDidMount() {
         State.get('comment').on(comment => this.setState({comment}));
     }
     
-    onInput(e) {  State.get('comment').put(e.target.value);
+    onInput(e) {
+        State.get('comment').put(e.target.value);
     }
     
     render() {
