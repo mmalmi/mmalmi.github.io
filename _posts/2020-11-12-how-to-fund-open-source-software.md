@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Fund Open Source Software"
 date:   2020-11-12 07:37:00 +0000
-tags: economics
+tags: economics software
 published: true
 description: "It’s time to talk about survival and growth of open source software projects."
 image: https://siriusbusiness.fi/assets/images/posts/letsfindout.jpeg
