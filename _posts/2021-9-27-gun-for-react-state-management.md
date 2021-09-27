@@ -12,7 +12,7 @@ Fed up with writing a ton of Redux boilerplate just to make a form input editabl
 
 There’s a better alternative: Gun.js. It makes state synchronization and persistence super easy:
 
-```
+```js
 // Initialize Gun with options to make sure that the state is synced only locally
 const State = new Gun({multicast: false, peers: [], localStorage: true, file: ‘State.local’});
 
