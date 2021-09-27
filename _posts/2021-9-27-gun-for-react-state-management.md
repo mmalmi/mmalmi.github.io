@@ -19,25 +19,30 @@ const State = new Gun({
     file: 'State.local', 
     multicast: false,
     peers: []
-});
+}).get('state');
 
-class CommentForm {
+class CommentForm extends React.Component {
+    constructor() {
+      super();
+      this.state = {comment:''};
+    }
     componentDidMount() {
         State.get('comment').on(comment => this.setState({comment}));
     }
     
-    onInput(e) {
-        State.get('comment').put(e.target.value);
+    onInput(e) {  State.get('comment').put(e.target.value);
     }
     
     render() {
-        return {
-            <form>
-                <input type="text" value={{this.state.comment}} onInput={e => this.onInput(e)} />
+        return (
+            <form class="box">
+                <input placeholder="Type something" type="text" value={this.state.comment} onChange={e => this.onInput(e)} />
             </form>
-        }
+        );
     }
 }
 ```
 
-Now you have a comment form that automatically persists its content.
+Now you have a comment form that syncs its content across component instances and persists it in localStorage.
+
+See the working example on [Codepen](https://codepen.io/mmalmi/pen/VwWVdKG).
