@@ -41,7 +41,10 @@ class TextInput extends React.Component {
     render() {
         return (
             <form class="box">
-                <input placeholder="Type something" type="text" value={this.state.text} onChange={e => this.onInput(e)} />
+                <input placeholder="Type something"
+                       type="text"
+                       value={this.state.text}
+                       onChange={e => this.onInput(e)} />
             </form>
         );
     }
