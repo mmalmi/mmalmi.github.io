@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Gun.js: The Best Solution for React State Management"
+title:  "Gun.js: Painless React State Management"
 date:   2021-9-27 01:37:00 +0000
 tags: software
 published: true
 description: "Better alternative to Redux"
-image: https://siriusbusiness.fi/assets/images/posts/cheesecake.jpg
+image: https://siriusbusiness.fi/assets/images/posts/painless.jpg
 ---
+
+![I feel no pain](/assets/images/posts/painless.jpg)
 
 Fed up with writing a ton of Redux boilerplate just to make a form input editable?
 
@@ -25,29 +27,29 @@ const State = new Gun({
 Then create a React component that uses the state:
 
 ```jsx
-class CommentForm extends React.Component {
+class TextInput extends React.Component {
     constructor() {
         super();
-        this.state = {comment:''};
+        this.state = {text:''};
     }
     componentDidMount() {
-        State.get('comment').on(comment => this.setState({comment}));
+        State.get('text').on(text => this.setState({text}));
     }
     
     onInput(e) {
-        State.get('comment').put(e.target.value);
+        State.get('text').put(e.target.value);
     }
     
     render() {
         return (
             <form class="box">
-                <input placeholder="Type something" type="text" value={this.state.comment} onChange={e => this.onInput(e)} />
+                <input placeholder="Type something" type="text" value={this.state.text} onChange={e => this.onInput(e)} />
             </form>
         );
     }
 }
 ```
 
-Now you have a comment form that syncs its content across component instances and persists it in localStorage.
+Now you have a text form that syncs its content across component instances and persists it in localStorage.
 
 See the working example on [Codepen](https://codepen.io/mmalmi/pen/VwWVdKG).
