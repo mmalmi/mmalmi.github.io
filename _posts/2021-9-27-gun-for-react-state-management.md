@@ -10,7 +10,7 @@ image: https://siriusbusiness.fi/assets/images/posts/painless.jpg
 
 ![I feel no pain](/assets/images/posts/painless.jpg)
 
-Fed up with writing a ton of Redux boilerplate just to make a form input editable?
+Fed up with writing a ton of Redux boilerplate just to handle form input changes?
 
 There’s a better alternative: [Gun.js](https://github.com/amark/gun). It makes state synchronization and persistence a breeze.
 
