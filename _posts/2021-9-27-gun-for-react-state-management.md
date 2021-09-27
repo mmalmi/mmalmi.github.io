@@ -13,22 +13,22 @@ Fed up with writing a ton of Redux boilerplate just to make a form input editabl
 There’s a better alternative: Gun.js. It makes state synchronization and persistence super easy:
 
 ```js
-// Initialize Gun with options to make sure that the state is synced only locally
-const State = new Gun({multicast: false, peers: [], localStorage: true, file: ‘State.local’});
+// Initialize Gun with options that make sure the state is synced to localStorage only
+const State = new Gun({multicast: false, peers: [], localStorage: true, file: 'State.local'});
 
 class CommentForm {
     componentDidMount {
-        State.get(‘comment’).on(comment => this.setState({comment}));
+        State.get('comment').on(comment => this.setState({comment}));
     }
     
     onInput(e) {
-        State.get(‘comment’).put(e.target.value);
+        State.get('comment').put(e.target.value);
     }
     
     render() {
         return {
             <form>
-                <input type=”text” value={{this.state.comment}} onInput={e => this.onInput(e)} />
+                <input type="text" value={{this.state.comment}} onInput={e => this.onInput(e)} />
             </form>
         }
     }
