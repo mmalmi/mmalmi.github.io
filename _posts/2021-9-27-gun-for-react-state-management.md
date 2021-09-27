@@ -104,4 +104,4 @@ class TextInput extends BaseComponent {
 
 [Codepen](https://codepen.io/mmalmi/pen/MWozPZE)
 
-Upcoming: How to sync your changes with the world.
+Upcoming: How to sync your application state with the world.
