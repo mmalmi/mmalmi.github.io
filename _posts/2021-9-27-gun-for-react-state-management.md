@@ -12,7 +12,7 @@ image: https://siriusbusiness.fi/assets/images/posts/painless.jpg
 
 Fed up with writing a ton of Redux boilerplate just to make a form input editable?
 
-There’s a better alternative: Gun.js. It makes state synchronization and persistence super easy.
+There’s a better alternative: [Gun.js](https://github.com/amark/gun). It makes state synchronization and persistence super easy.
 
 First, initialize Gun with options that make sure the state is synced with localStorage only (not with peers).
 ```jsx
