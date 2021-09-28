@@ -14,7 +14,7 @@ Fed up with writing a ton of Redux boilerplate just to handle form input changes
 
 There’s a better alternative: [Gun.js](https://github.com/amark/gun). It makes state synchronization and persistence a breeze.
 
-First, initialize Gun with options that make sure the state is synced with localStorage only (not with peers).
+First, initialize Gun with options that ensure the state is synced with localStorage only (not with peers).
 ```jsx
 const State = new Gun({
     localStorage: true,
@@ -51,7 +51,7 @@ class TextInput extends React.Component {
 }
 ```
 
-Now you have a text form that syncs its content across component instances and persists it in localStorage.
+Now you have a text input that syncs its content across component instances and persists it in localStorage.
 
 See the working example on [Codepen](https://codepen.io/mmalmi/pen/VwWVdKG).
 
