@@ -4,7 +4,7 @@ title:  "Gun.js: Painless React State Management"
 date:   2021-9-27 01:37:00 +0000
 tags: software
 published: true
-description: "Better alternative to Redux"
+description: "React state synchronization and persistence in just a few lines of code."
 image: https://siriusbusiness.fi/assets/images/posts/painless.jpg
 ---
 
