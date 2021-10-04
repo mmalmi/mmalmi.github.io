@@ -107,4 +107,6 @@ class TextInput extends BaseComponent {
 
 [Codepen](https://codepen.io/mmalmi/pen/MWozPZE)
 
+Prefer *hooks*? Check out this [codepen](https://codepen.io/alterx/pen/VwWqgRV) by [Carlos](https://codepen.io/alterx).
+
 Upcoming: How to sync your application state with the world.
