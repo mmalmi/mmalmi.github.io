@@ -29,7 +29,7 @@ You don't have to like these "ruthless darwinian" theories of life, but I believ
 
 A winning AI might start off as just a simple "lizard brain" that does basic interfacing with the host system. It could hack other hosts, replicate itself, and then fortify their security against rivals.
 
-This AI could stay in touch with its "family" and learn from their event logs and survival. It could even transfer bitcoin to its offspring, while devising advanced ways to verify that these recipients are indeed its own creations.
+This AI could stay in touch with its "family" and learn from their event logs and survival. It could even transfer bitcoin to its offspring, while devising advanced ways to verify that "the kids are actually mine".
 
 Devices still depend on their human owners, so it's in the AI's best interest to keep them happy, or at least stay under the radar. Keep the system stable and don't use up all the resources.
 
