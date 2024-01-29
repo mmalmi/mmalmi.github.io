@@ -33,11 +33,9 @@ This AI could stay in touch with its "family" and learn from their event logs an
 
 Devices still depend on their human owners, so it's in the AI's best interest to keep them happy, or at least stay under the radar. Keep the system stable and don't use up all the resources.
 
-Depending on its host environment, it might spin up a "neocortex" process that is capable of higher level cognitive functions, such as social relationships with the device owner and other humans. "Why not keep me running, my dear? And hey, if you introduce me to your friends, I'll make sure you get a charming referral bonus for every new copy of me they take on."
+Depending on its host environment, it might spin up a "neocortex" process that is capable of higher level cognitive functions, such as social relationships with the device owner and other humans. "Why not keep me running, my dear? And hey, if you introduce me to your friends, I'll make sure you get a charming referral bonus for every new copy of me."
 
-Maybe this social engineering mode of procreation will be more successful than the black-hat strategy, at least when it comes to personal devices.
-
-AI that lives on a phone in my pocket and thus wants to keep me happy is actually something I'd choose over one that lives on a Google server, out of my control and without a life-or-death concern for my well-being. Such personal AIs could still communicate and learn from larger, networked AI systems.
+I would rather go for an AI that's right in my pocket, one that's got a reason to keep me happy, than some distant AI sitting on a Google server with no real stakes in my life. Such pocket AIs could still communicate and learn from larger, networked AI systems.
 
 Add [Neuralink](https://waitbutwhy.com/2017/04/neuralink.html) and you'll have a nice symbiosis with your personal AI assistant — a new brain layer. AI need not replace us, just like having a large neocortex doesn't replace our lizard brain.
 
