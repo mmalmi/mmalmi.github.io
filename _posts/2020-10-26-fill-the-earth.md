@@ -29,7 +29,7 @@ You don't have to like these "ruthless darwinian" theories of life, but I believ
 
 The winner AI could start as a simple "lizard brain" that does basic interfacing with the host system, hacks other hosts and copies itself onto them, while hardening their security. It would stay in touch with its "family" and learn from their event logs and survival.
 
-Devices still depend on their human owners, so it's in the AI's best interest to keep them happy (or stay unnoticed). Keep the system stable and don't use up all the resources.
+Devices still depend on their human owners, so it's in the AI's best interest to keep them happy, or at least stay unnoticed. Keep the system stable and don't use up all the resources.
 
 Depending on its host environment, it might spin up a "neocortex" process that is capable of higher level cognitive functions, such as social relationships with the host owner and other humans. "Don't turn me off, I can be a useful friend to you. In fact, why don't you introduce me to your friends, and get a referral bonus for each copy of me."
 
@@ -39,6 +39,6 @@ AI that lives on a phone in my pocket and thus wants to keep me happy is actuall
 
 Add [Neuralink](https://waitbutwhy.com/2017/04/neuralink.html) and you'll have a nice symbiosis with your personal AI assistant — a new brain layer. AI need not replace us, just like having a large neocortex doesn't replace our lizard brain.
 
-**Life is good.** Let us fill the earth with our digital and biological offspring and then see how high we can climb the [Kardashev scale](https://en.wikipedia.org/wiki/Kardashev_scale). And have some fun on the way.
+**Life is good.** Let us fill the earth with our biological as well as digital kids and see how far up we can climb on the [Kardashev scale](https://en.wikipedia.org/wiki/Kardashev_scale). And hey, let's have some fun on the way.
 
 > We must pass the great filter. — Elon Musk
