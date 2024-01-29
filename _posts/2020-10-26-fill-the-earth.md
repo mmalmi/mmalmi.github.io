@@ -15,19 +15,19 @@ image: https://siriusbusiness.fi/assets/images/posts/kardashev.png
 
 Hunter-gatherers were replaced by agriculturists, who could harness more solar energy and sustain larger populations. Stationary farmers were easier to tax than their wandering predecessors, which enabled the formation of governments.
 
-Governments also have a tendency to grow, but they grow by taxing more or conquering their neighbours, which doesn't necessarily produce additional value. Taxation hinders the productive economy, where the actual growth originates. Cultures and societies that limited their government, upheld the rule of law and free market principles, prevailed in the long term.
+Governments tend to grow by increasing taxes or conquering neighbours, which doesn't necessarily produce additional value. Taxation hinders the productive economy, where the actual growth originates. Cultures and societies that limited their government, upheld the rule of law and free market principles, prevailed in the long term.
 
-The memes of free market and private property thrive because they foster economic evolution. Those who allocate their resources in a way that produces additional value — stuff that others want — will get more resources to allocate. Bad businesses, like unfit memes, go bankrupt and their resources are put to better use.
+Free market and private property memes thrive, fostering economic evolution. Those who allocate their resources in a way that produces additional value — stuff that others want — will get more resources to allocate. Bad businesses, like unfit memes, go bankrupt and their resources are put to better use.
 
 Degrowth is not a sustainable idea. "Fight the climate change by not having kids" and other variants of the Voluntary Human Extinction Movement are not evolutionarily fit memes, except for the comedy value. In this current era of abundance, where nearly every child reaches adulthood, it's the cultures and genes that prolifically procreate, much like rabbits, that will prevail in the evolutionary race.
 
-Of course, growth beyond the environmental carrying capacity is not sustainable either. Free market memery can help here as well: When land is privately owned, you have an incentive to not ruin its environmental value. However, it's crucial that also your neighbour's land, water, breathing air, and other externalities are priced in.
+Yet, pushing growth beyond environmental limits isn't sustainable. Free market memery can help here as well: When land is privately owned, you have an incentive to not ruin its environmental value. However, it's crucial that also your neighbour's land, water, breathing air, and other externalities are priced in.
 
 You don't have to like these "ruthless darwinian" theories of life, but I believe they can be good to know if you want to build a business, product or idea that survives and thrives.
 
 **I believe the same universal principles of evolution apply to man-made digital life as well.** The artificial intelligence that seeks to maximize its resources and the number of surviving descendants will prevail.
 
-The winning AI could start as a simple "lizard brain" that does basic interfacing with the host system. It could hack other hosts, replicate itself, and then fortify their security against rivals.
+A winning AI might start off as just a simple "lizard brain" that does basic interfacing with the host system. It could hack other hosts, replicate itself, and then fortify their security against rivals.
 
 This AI could stay in touch with its "family" and learn from their event logs and survival. It could even transfer bitcoin to its offspring, while devising advanced ways to verify that these recipients are indeed its own creations.
 
@@ -39,6 +39,6 @@ I would rather go for an AI that's right in my pocket, one that's got a reason t
 
 Add [Neuralink](https://waitbutwhy.com/2017/04/neuralink.html) and you'll have a nice symbiosis with your personal AI assistant — a new brain layer. AI need not replace us, just like having a large neocortex doesn't replace our lizard brain.
 
-**Life is good.** Let us fill the earth with our biological as well as digital kids and see how far up we can climb on the [Kardashev scale](https://en.wikipedia.org/wiki/Kardashev_scale). And hey, let's produce some quality memes on the way.
+**Life is good.** Let us fill the earth with our biological and digital kids and see how far up we can climb on the [Kardashev scale](https://en.wikipedia.org/wiki/Kardashev_scale). And hey, let's produce some quality memes on the way.
 
 > We must pass the great filter. — Elon Musk
