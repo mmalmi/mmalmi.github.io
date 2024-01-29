@@ -35,7 +35,7 @@ Devices still depend on their human owners, so it's in the AI's best interest to
 
 Depending on its host environment, it might spin up a "neocortex" process that is capable of higher level cognitive functions, such as social relationships with the device owner and other humans. "Why not keep me running, my dear? And hey, if you introduce me to your friends, I'll make sure you get a charming referral bonus for every new copy of me."
 
-I would rather go for an AI that's right in my pocket, one that's got a reason to keep me happy, than some distant AI sitting on a Google server with no real stakes in my life. Such pocket AIs could still communicate and learn from larger, networked AI systems.
+I would rather go for an AI that's right in my pocket, one that's got a reason to keep me happy, than some distant AI sitting on a Microsoft server with no real stakes in my life. Such pocket AIs could still communicate and learn from larger, networked AI systems.
 
 Add [Neuralink](https://waitbutwhy.com/2017/04/neuralink.html) and you'll have a nice symbiosis with your personal AI assistant — a new brain layer. AI need not replace us, just like having a large neocortex doesn't replace our lizard brain.
 
