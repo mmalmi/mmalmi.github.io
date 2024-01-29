@@ -13,7 +13,7 @@ image: https://siriusbusiness.fi/assets/images/posts/kardashev.png
 
 **All living things must survive and procreate, or be replaced by something that does.** This rule is universal, governing not just biological entities but also human organizations and the realm of ideas and memes.
 
-Hunter-gatherers were replaced by agriculturists, who could harness more solar energy and sustain larger populations. Stationary farmers were easier to tax than their predecessors, which enabled the formation of governments.
+Hunter-gatherers were replaced by agriculturists, who could harness more solar energy and sustain larger populations. Stationary farmers were easier to tax than their wandering predecessors, which enabled the formation of governments.
 
 Governments also have a tendency to grow, but they grow by taxing more or conquering their neighbours, which doesn't necessarily produce additional value. Taxation hinders the productive economy, where the actual growth originates. Cultures and societies that limited their government, upheld the rule of law and free market principles, prevailed in the long term.
 
