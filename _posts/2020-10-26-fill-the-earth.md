@@ -25,7 +25,7 @@ In this current era of abundance, where nearly every child reaches adulthood, it
 
 Yet, pushing growth beyond environmental limits isn't sustainable. Free market memery can help here as well: When land is privately owned, you have an incentive to not ruin its environmental value. However, it's crucial that also your neighbour's land, water, breathing air, and other externalities are priced in.
 
-You don't have to like these "ruthless darwinian" theories of life, but I believe they can be good to know if you want to build a business, product or idea that survives and thrives.
+You don't have to like these "ruthless darwinian" theories of life, but I believe they can be good to know if you want to build a business, product or even life philosophy that survives and thrives.
 
 **I believe the same universal principles of evolution apply to man-made digital life as well.** The artificial intelligence that seeks to maximize its resources and the number of surviving descendants will prevail.
 
