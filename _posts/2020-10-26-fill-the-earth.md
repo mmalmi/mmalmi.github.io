@@ -19,7 +19,7 @@ Governments tend to grow by increasing taxes or conquering neighbours, which doe
 
 Free market and private property memes thrive, fostering economic evolution. Those who allocate their resources in a way that produces additional value — stuff that others want — will get more resources to allocate. Bad businesses, like unfit memes, go bankrupt and their resources are put to better use.
 
-Degrowth is not a sustainable idea. "Fight the climate change by not having kids" and other variants of the Voluntary Human Extinction Movement are not evolutionarily fit memes, except for the comedy value. They will literally die out.
+Degrowth is not a sustainable idea. "Fight the climate change by not having kids" and other variants of the Voluntary Human Extinction Movement are not evolutionarily fit memes, except for the comedy value. Death cults will literally die out.
 
 In this current era of abundance, where nearly every child reaches adulthood, it's the cultures and genes that prolifically procreate, much like rabbits, that will prevail in the evolutionary race.
 
