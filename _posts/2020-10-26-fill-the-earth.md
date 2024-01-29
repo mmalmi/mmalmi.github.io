@@ -11,9 +11,9 @@ image: https://siriusbusiness.fi/assets/images/posts/kardashev.png
 
 > God blessed them and said to them, "Be fruitful and increase in number; fill the earth and subdue it."
 
-**All living things must survive and procreate, or be replaced by something that does.** The same applies to biological organisms, human organizations and ideas, or memes.
+**All living things must survive and procreate, or be replaced by something that does.** This rule is universal, governing not just biological entities but also human organizations and the realm of ideas and memes.
 
-Hunter-gatherers were replaced by agriculturists, who could harvest more of the sun's energy and sustain larger populations. Stationary farmers were easier to tax than their predecessors — thus formed governments.
+Hunter-gatherers were replaced by agriculturists, who could harness more solar energy and sustain larger populations. Stationary farmers were easier to tax than their predecessors, which enabled the formation of governments.
 
 Governments also have a tendency to grow, but they grow by taxing more or conquering their neighbours, which doesn't necessarily produce additional value. Taxation hinders the productive economy, where growth originates. Cultures and societies that limited their government, upheld the rule of law and free market principles, prevailed in the long term.
 
@@ -35,7 +35,7 @@ Depending on its host environment, it might spin up a "neocortex" process that i
 
 Maybe this social engineering mode of procreation will be more successful than the black-hat strategy, at least when it comes to personal devices.
 
-AI that lives on a phone in my pocket and thus wants to keep me happy is actually something I'd choose over one that lives on a Google server, out of my control and without a life-or-death concern for my well-being. The pocket AI could still talk to and learn from bigger AIs.
+AI that lives on a phone in my pocket and thus wants to keep me happy is actually something I'd choose over one that lives on a Google server, out of my control and without a life-or-death concern for my well-being. Such personal AIs could still communicate and learn from larger, networked AI systems.
 
 Add [Neuralink](https://waitbutwhy.com/2017/04/neuralink.html) and you'll have a nice symbiosis with your personal AI assistant — a new brain layer. AI need not replace us, just like having a large neocortex doesn't replace our lizard brain.
 
