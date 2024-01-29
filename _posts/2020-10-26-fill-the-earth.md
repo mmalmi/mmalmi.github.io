@@ -17,7 +17,7 @@ Hunter-gatherers were replaced by agriculturists, who could harness more solar e
 
 Governments also have a tendency to grow, but they grow by taxing more or conquering their neighbours, which doesn't necessarily produce additional value. Taxation hinders the productive economy, where growth originates. Cultures and societies that limited their government, upheld the rule of law and free market principles, prevailed in the long term.
 
-Free market and private property are good ideas (i.e. surviving ideas) because they enable economic evolution. Those who allocate their resources in a way that produces additional value (stuff that others want) will get more resources to allocate. Bad businesses go bankrupt and their resources are put to better use.
+The memes of free market and private property thrive because they enable economic evolution. Those who allocate their resources in a way that produces additional value (stuff that others want) will get more resources to allocate. Bad businesses, like unfit memes, go bankrupt and their resources are put to better use.
 
 Degrowth is not a sustainable idea. "Have fewer kids to fight the climate change" and other variants of the Voluntary Human Extinction Movement are not evolutionarily fit memes, except for the comedy value. Pro-life cultures and genes will be the winners of evolution. More so in the current age of abundance, where you can have as many children as you can be bothered to, and basically all of them will survive.
 
