@@ -29,7 +29,7 @@ You don't have to like these "ruthless darwinian" theories of life, but I believ
 
 **I believe the same universal principles of evolution apply to man-made digital life as well.** The artificial intelligence that seeks to maximize its resources and the number of surviving descendants will prevail.
 
-A winning AI might start off as just a simple "lizard brain" that does basic interfacing with the host system. It could hack other hosts, replicate itself, and then fortify their security against rivals.
+A winning AI might start off as just a simple "lizard brain" software agent that does basic interfacing with the host system. It could hack other hosts, replicate itself, and then fortify their security against rivals.
 
 This AI could stay in touch with its "family" and learn from their event logs and survival. It could even transfer bitcoin to its offspring, while devising advanced ways to verify that "the kids are actually mine".
 
