@@ -21,11 +21,11 @@ Free market and private property are good ideas (i.e. surviving ideas) because t
 
 Degrowth is not a sustainable idea. "Have fewer kids to fight the climate change" and other variants of the Voluntary Human Extinction Movement are not evolutionarily fit memes, except for the comedy value. Pro-life cultures and genes will be the winners of evolution. More so in the current age of abundance, where you can have as many children as you can be bothered to, and basically all of them will survive.
 
-Of course, growth beyond the environmental carrying capacity is not sustainable either. When land is privately owned, there is some incentive to not ruin its environmental value. But also your neighbour's land, water, breathing air and other externalities must have a price tag for the economic calculator to care for them. Doing that on the global scale is not an easy one.
+Of course, growth beyond the environmental carrying capacity is not sustainable either. Free market economy can help here as well: When land is privately owned, you have an incentive to not ruin its environmental value. However, it's also crucial that your neighbour's land, water, breathing air, and other externalities are priced in.
 
 You don't have to like these "ruthless darwinian" theories of life, but I believe they can be good to know if you want to build a business, product or idea that survives and thrives.
 
-**I believe the same principles of evolution apply to man-made digital life as well.** The artificial intelligence that seeks to maximize its resources and the number of surviving descendants will prevail.
+**I believe the same universal principles of evolution apply to man-made digital life as well.** The artificial intelligence that seeks to maximize its resources and the number of surviving descendants will prevail.
 
 The winner AI could start as a simple "lizard brain" that does basic interfacing with the host system, hacks other hosts and copies itself onto them, while hardening their security. It would stay in touch with its "family" and learn from their event logs and survival.
 
