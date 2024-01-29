@@ -21,7 +21,7 @@ The memes of free market and private property thrive because they foster economi
 
 Degrowth is not a sustainable idea. "Fight the climate change by not having kids" and other variants of the Voluntary Human Extinction Movement are not evolutionarily fit memes, except for the comedy value. In this current era of abundance, where nearly every child reaches adulthood, it's the cultures and genes that prolifically procreate, much like rabbits, that will prevail in the evolutionary race.
 
-Of course, growth beyond the environmental carrying capacity is not sustainable either. Free market economy can help here as well: When land is privately owned, you have an incentive to not ruin its environmental value. However, it's crucial that also your neighbour's land, water, breathing air, and other externalities are priced in.
+Of course, growth beyond the environmental carrying capacity is not sustainable either. Free market memery can help here as well: When land is privately owned, you have an incentive to not ruin its environmental value. However, it's crucial that also your neighbour's land, water, breathing air, and other externalities are priced in.
 
 You don't have to like these "ruthless darwinian" theories of life, but I believe they can be good to know if you want to build a business, product or idea that survives and thrives.
 
