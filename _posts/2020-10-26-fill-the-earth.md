@@ -39,6 +39,6 @@ I would rather go for an AI that's right in my pocket, one that's got a reason t
 
 Add [Neuralink](https://waitbutwhy.com/2017/04/neuralink.html) and you'll have a nice symbiosis with your personal AI assistant — a new brain layer. AI need not replace us, just like having a large neocortex doesn't replace our lizard brain.
 
-**Life is good.** Let us fill the earth with our biological and digital kids and see how far up we can climb on the [Kardashev scale](https://en.wikipedia.org/wiki/Kardashev_scale). And hey, let's produce some quality memes on the way.
+**Life is good.** Let us fill the earth with our biological and digital kids and see how far up we can climb on the [Kardashev scale](https://en.wikipedia.org/wiki/Kardashev_scale). And most importantly, produce some quality memes on the way.
 
 > We must pass the great filter. — Elon Musk
