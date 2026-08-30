@@ -27,7 +27,7 @@ That doesn't mean growth can ignore environmental limits. A system that destroys
 
 There is something self-defeating about an ideology whose successful adoption causes its believers to disappear. “Fight climate change by not having kids” and other variants of voluntary human extinction may reduce the number of people carrying those ideas, but that's exactly the problem. *Extinctionists will be extinct.*
 
-In an era of abundance, where nearly every child in wealthy societies survives to adulthood, differences in reproduction matter again. Over enough generations, cultures and genes associated with having children become more common than those associated with avoiding them.
+In an era of abundance, where nearly every child in wealthy societies survives to adulthood, differences in reproduction matter again. Over generations, cultures and genes that favor reproduction become more common.
 
 I would go further and say this is also a moral question. A set of values that cannot sustain the people who hold them, or cannot survive from one generation to the next, is missing something essential. Morality should not only tell us how to live well today, but also how to leave behind people and institutions capable of carrying those values forward.
 
