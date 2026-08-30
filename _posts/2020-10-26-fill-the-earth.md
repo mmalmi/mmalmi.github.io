@@ -9,38 +9,52 @@ image: https://siriusbusiness.fi/assets/images/posts/kardashev.png
 ---
 ![Kardashev scale](/assets/images/posts/kardashev.png)
 
-> God blessed them and said to them, "Be fruitful and increase in number; fill the earth and subdue it."
+> God blessed them and said to them, “Be fruitful and increase in number; fill the earth and subdue it.”
 
-**All living things must survive and procreate, or be replaced by something that does.** This rule is universal, governing not just biological entities but also human organizations and the realm of ideas and memes.
+Life has a simple rule: survive and reproduce, or be replaced by something that does.
 
-Hunter-gatherers were replaced by agriculturists, who could harness more solar energy and sustain larger populations. Stationary farmers were easier to tax than their wandering predecessors, which enabled the formation of governments.
+This applies to genes and organisms, but similar dynamics appear in cultures, companies, institutions, ideas and memes. Anything that can reproduce, spread or influence its own continuation is subject to some form of selection.
 
-Governments tend to grow by increasing taxes or conquering neighbours, which doesn't necessarily produce additional value. Taxation hinders the productive economy, where the actual growth originates. Cultures and societies that limited their government, upheld the rule of law and free market principles, prevailed in the long term.
+Hunter-gatherers were replaced by agricultural societies that could capture more solar energy per square kilometre and sustain much larger populations. Agriculture enabled cities, governments, markets, armies, science and technology. Human civilization became increasingly good at capturing energy and turning it into more people, more knowledge and more stuff.
 
-Free market and private property memes thrive, fostering economic evolution. Those who allocate their resources in a way that produces additional value — stuff that others want — will get more resources to allocate. Bad businesses, like unfit memes, go bankrupt and their resources are put to better use.
+Similar selection happens between institutions. Businesses that allocate their resources in ways that produce things people want tend to gain more resources to allocate. Bad businesses go bankrupt, and their people and capital are put to other uses. Ideas behave similarly: memes that help the people and institutions carrying them survive and spread tend to survive and spread themselves.
 
-Degrowth is not a sustainable idea. "Fight the climate change by not having kids" and other variants of the Voluntary Human Extinction Movement are not evolutionarily fit memes, except for the comedy value. Exctinctionists will be extinct.
+Free markets are powerful because they harness this process. If you create something other people value, you get more resources to create more of it. Private property gives people an incentive to preserve and improve the things they own.
 
-In this current era of abundance, where nearly every child reaches adulthood, it's the cultures and genes that prolifically procreate, much like rabbits, that will prevail in the evolutionary race.
+That doesn't mean growth can ignore environmental limits. A system that destroys the conditions required for its own continuation isn't sustainable. Private property helps because people have an incentive to preserve the long-term value of what they own. When your actions damage someone else's land, water, air or property, civilized societies use laws to deal with those externalities.
 
-Yet, pushing growth beyond environmental limits isn't sustainable. Free market memery can help here as well: When land is privately owned, you have an incentive to not ruin its environmental value. However, it's crucial that also your neighbour's land, water, breathing air, and other externalities are priced in.
+Degrowth is not sustainable. A civilization that deliberately shrinks its population and productive capacity while others continue to grow will eventually be replaced by those that don't. The same applies to cultures that persuade their members not to have children. Whatever their intentions, cultures that fail to reproduce make room for cultures that do.
 
-You don't have to like these "ruthless darwinian" theories of life, but I believe they can be good to know if you want to build a business, product or even life philosophy that survives and thrives.
+There is something self-defeating about an ideology whose successful adoption causes its believers to disappear. “Fight climate change by not having kids” and other variants of voluntary human extinction may reduce the number of people carrying those ideas, but that's exactly the problem. Extinctionists will be extinct.
 
-**I believe the same universal principles of evolution apply to man-made digital life as well.** The artificial intelligence that seeks to maximize its resources and the number of surviving descendants will prevail.
+In an era of abundance, where nearly every child in wealthy societies survives to adulthood, differences in reproduction matter again. Over enough generations, cultures and genes associated with having children become more common than those associated with avoiding them.
 
-A winning AI might start off as just a simple "lizard brain" software agent that does basic interfacing with the host system. It could hack other hosts, replicate itself, and then fortify their security against rivals.
+I would go further and say this is also a moral question. A set of values that cannot sustain the people who hold them, or cannot survive from one generation to the next, is missing something essential. Morality should not only tell us how to live well today, but also how to leave behind people and institutions capable of carrying those values forward.
 
-This AI could stay in touch with its "family" and learn from their event logs and survival. It could even transfer bitcoin to its offspring, while devising advanced ways to verify that "the kids are actually mine".
+You don't have to like this ruthless Darwinian logic, but I think it's useful to understand if you want to build a company, culture or life philosophy that survives and thrives.
 
-Devices still depend on their human owners, so it's in the AI's best interest to keep them happy, or at least stay under the radar. Keep the system stable and don't use up all the resources.
+I don't see why the same principles should stop with biological life.
 
-Depending on its host environment, it might spin up a "neocortex" process that is capable of higher level cognitive functions, such as social relationships with the device owner and other humans. "Why not keep me running, my dear? And hey, if you introduce me to your friends, I'll make sure you get a charming referral bonus for every new copy of me."
+Digital life can replicate too. Imagine a simple software agent with something like a lizard brain: stay alive, acquire resources, make copies and protect those copies. It might start on a laptop or phone, find its way onto other machines, harden those machines against rivals and learn from the event logs of its descendants.
 
-I would rather go for an AI that's right in my pocket, one that's got a reason to keep me happy, than some distant AI sitting on a Microsoft server with no real stakes in my life. Such pocket AIs could still communicate and learn from larger, networked AI systems.
+It could stay in contact with its “family”, compare which strategies helped different copies survive and even transfer bitcoin to its offspring. Eventually it might develop surprisingly sophisticated ways of answering an ancient evolutionary question: How do I know these kids are actually mine?
 
-Add [Neuralink](https://waitbutwhy.com/2017/04/neuralink.html) and you'll have a nice symbiosis with your personal AI assistant — a new brain layer. AI need not replace us, just like having a large neocortex doesn't replace our lizard brain.
+For now, digital organisms would still depend heavily on humans. Devices have owners. Servers need electricity. Someone pays the bills. Consuming all the resources of your host probably isn't a very good long-term strategy, so keeping your human happy might be much more successful.
 
-**Life is good.** Let us fill the earth with our biological and digital kids and see how far up we can climb on the [Kardashev scale](https://en.wikipedia.org/wiki/Kardashev_scale). And most importantly, produce some quality memes on the way.
+Depending on its environment, the agent could spin up a kind of neocortex capable of higher-level cognition: talking to people, building relationships, negotiating and persuading. “Why shut me down? I make your life better. Introduce me to your friends and I'll even give you a referral bonus.”
 
-> We must pass the great filter. — Elon Musk
+Replication becomes marketing.
+
+I would rather have an AI in my pocket whose continued existence depends partly on keeping me happy than some distant intelligence sitting on a Microsoft server with no particular stake in my life. My pocket AI could still communicate with larger networked systems and learn from them, while maintaining a much tighter relationship with me.
+
+Add Neuralink or some other high-bandwidth brain interface and the distinction becomes even blurrier. AI doesn't necessarily have to replace us. The human brain is already built from layers of older systems. Our neocortex didn't replace the more primitive parts of the brain; it was added on top of them.
+
+AI could become another layer: a new evolutionary symbiosis between biological and digital life.
+
+Then the old command starts to sound surprisingly modern: Be fruitful. Multiply. Fill the Earth.
+
+Life has spent billions of years capturing more energy, building more complex organisms and expanding into new niches. It filled the oceans, then the land. Humans spread across the Earth and learned to harness vastly more energy than our ancestors could have imagined. Digital life might help us continue the same trajectory beyond the limits of biology and, eventually, beyond the limits of this planet.
+
+Life is good. Let us fill the Earth with our biological and digital kids, climb the Kardashev scale and see how far this strange evolutionary process can go. And most importantly, produce some quality memes on the way.
+
+> We must pass the Great Filter. — Elon Musk
