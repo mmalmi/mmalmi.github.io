@@ -21,7 +21,7 @@ Similar selection happens between institutions. Businesses that allocate their r
 
 Free markets are powerful because they harness this process. If you create something other people value, you get more resources to create more of it. Private property gives people an incentive to preserve and improve the things they own.
 
-That doesn't mean growth can ignore environmental limits. A system that destroys the conditions required for its own continuation isn't sustainable. Private property helps because people have an incentive to preserve the long-term value of what they own. When your actions damage someone else's land, water, air or property, civilized societies use laws to deal with those externalities.
+That doesn't mean growth can ignore environmental limits. A system that destroys the conditions required for its own continuation isn't sustainable. Private property helps because people have an incentive to preserve the long-term value of what they own, including land and natural resources. When your actions damage someone else's land, water, air or property, civilized societies use laws to deal with those externalities.
 
 **Degrowth is not sustainable.** A civilization that deliberately shrinks its population and productive capacity while others continue to grow will eventually be replaced by those that don't. The same applies to cultures that persuade their members not to have children. Whatever their intentions, cultures that fail to reproduce make room for cultures that do.
 
